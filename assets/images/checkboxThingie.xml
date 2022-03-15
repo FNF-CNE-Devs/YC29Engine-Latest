@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkboxThingie.png">
+	<!-- Had to trace over to prevent my mod from getting trashed on gamebanana (sorry) -->
+	<SubTexture name="Check Box unselected0000" x="0" y="0" width="102" height="103"/>
+	<SubTexture name="Check Box Selected Static0000" x="102" y="0" width="120" height="174" frameX="13" frameY="71" frameWidth="140" frameHeight="225"/>
+</TextureAtlas>

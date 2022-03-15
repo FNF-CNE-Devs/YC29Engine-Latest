@@ -1,0 +1,1072 @@
+How to make a mod.url
+Launch.bat
+YoshiEngine.exe
+assets/characters/icons/bf-old.png
+assets/characters/icons/bf-pixel.png
+assets/characters/icons/bf.png
+assets/characters/icons/dad.png
+assets/characters/icons/face.png
+assets/characters/icons/gf.png
+assets/characters/icons/iconRedirects.txt
+assets/characters/icons/mom.png
+assets/characters/icons/monster.png
+assets/characters/icons/parents-christmas.png
+assets/characters/icons/pico.png
+assets/characters/icons/senpai.png
+assets/characters/icons/spirit.png
+assets/characters/icons/spooky.png
+assets/characters/icons/tankman.png
+assets/characters/icons/unknown.png
+assets/credits.json
+assets/data/charterControls.txt
+assets/data/controls.txt
+assets/data/credits.json
+assets/data/data-goes-here.txt
+assets/data/introText.txt
+assets/data/main-view.xml
+assets/data/shout out.txt
+assets/data/specialThanks.txt
+assets/data/tutorial/tutorial-easy.json
+assets/data/tutorial/tutorial-hard.json
+assets/data/tutorial/tutorial.json
+assets/images/FNF_main_menu_assets.png
+assets/images/FNF_main_menu_assets.xml
+assets/images/alphabet.png
+assets/images/alphabet.xml
+assets/images/campaign_menu_UI_assets.png
+assets/images/campaign_menu_UI_assets.xml
+assets/images/campaign_menu_UI_characters.png
+assets/images/campaign_menu_UI_characters.xml
+assets/images/checkboxThingie.png
+assets/images/checkboxThingie.xml
+assets/images/creditEmptyIcon.png
+assets/images/credits/abnormalpoof.png
+assets/images/credits/kiyuusama.png
+assets/images/credits/polybius.png
+assets/images/credits/yoshicrafter29.png
+assets/images/cross.png
+assets/images/defaultTitlebarIcon.png
+assets/images/enterToClose.png
+assets/images/fileIcons.png
+assets/images/gfDanceTitle.png
+assets/images/gfDanceTitle.xml
+assets/images/hi.png
+assets/images/icon.png
+assets/images/iconGrid.png
+assets/images/logo.png
+assets/images/logoBumpin.png
+assets/images/logoBumpin.xml
+assets/images/menuBG.png
+assets/images/menuBGBlue.png
+assets/images/menuBGMagenta.png
+assets/images/menuBGYoshi.png
+assets/images/menuDesat.png
+assets/images/modEmptyIcon.png
+assets/images/newgrounds_logo.png
+assets/images/num0.png
+assets/images/num1.png
+assets/images/num2.png
+assets/images/num3.png
+assets/images/num4.png
+assets/images/num5.png
+assets/images/num6.png
+assets/images/num7.png
+assets/images/num8.png
+assets/images/num9.png
+assets/images/outdatedAssets.png
+assets/images/outdatedAssets.xml
+assets/images/storymenu/week0.png
+assets/images/storymenu/week1.png
+assets/images/storymenu/week2.png
+assets/images/storymenu/week3.png
+assets/images/storymenu/week4.png
+assets/images/storymenu/week5.png
+assets/images/storymenu/week6.png
+assets/images/titleEnter.png
+assets/images/titleEnter.xml
+assets/images/uiIcons.png
+assets/images/ui_buttons.png
+assets/images/ui_buttons.xml
+assets/images/warning.png
+assets/images/yoshiLogo.png
+assets/music/characterEditor.ogg
+assets/music/freakyMenu.ogg
+assets/shared/images/NOTE_assets.png
+assets/shared/images/NOTE_assets.xml
+assets/shared/images/NOTE_assets_charter.png
+assets/shared/images/NOTE_assets_charter.xml
+assets/shared/images/NOTE_assets_colored.png
+assets/shared/images/NOTE_assets_colored.xml
+assets/shared/images/NOTE_assets_colored_overlay.png
+assets/shared/images/backspace.png
+assets/shared/images/backspace.xml
+assets/shared/images/bad.png
+assets/shared/images/combo.png
+assets/shared/images/credits_concept/bgLimo.png
+assets/shared/images/credits_concept/limoDrive.png
+assets/shared/images/credits_concept/limoOverlay.png
+assets/shared/images/credits_concept/limoSunset.png
+assets/shared/images/default_stage/stage_light.png
+assets/shared/images/default_stage/stageback.png
+assets/shared/images/default_stage/stagecurtains.png
+assets/shared/images/default_stage/stagefront.png
+assets/shared/images/events.png
+assets/shared/images/events.xml
+assets/shared/images/go.png
+assets/shared/images/good.png
+assets/shared/images/grafix.png
+assets/shared/images/healthBar.png
+assets/shared/images/icons/face.png
+assets/shared/images/images-go-here.txt
+assets/shared/images/lol.png
+assets/shared/images/lose.png
+assets/shared/images/lose.xml
+assets/shared/images/optionsArrowSelector.png
+assets/shared/images/pauseAlt/bfLol.png
+assets/shared/images/pauseAlt/bfLol.xml
+assets/shared/images/pauseAlt/pauseBG.png
+assets/shared/images/pauseAlt/pauseUI.png
+assets/shared/images/pauseAlt/pauseUI.xml
+assets/shared/images/ready.png
+assets/shared/images/restart.png
+assets/shared/images/screencapTierImage.png
+assets/shared/images/set.png
+assets/shared/images/shit.png
+assets/shared/images/sick.png
+assets/shared/images/speech_bubble_talking.png
+assets/shared/images/speech_bubble_talking.xml
+assets/shared/images/stageEditorChars.png
+assets/shared/images/stageEditorChars.xml
+assets/shared/images/ui/camThingy.png
+assets/shared/images/ui/colorHueSelector.png
+assets/shared/images/ui/colorSelector.png
+assets/shared/images/week54prototype.png
+assets/shared/images/yoshi engine.png
+assets/shared/images/zzzzzzzz.png
+assets/shared/music/breakfast.ogg
+assets/shared/music/gameOver.ogg
+assets/shared/music/gameOverEnd.ogg
+assets/shared/sounds/ANGRY.ogg
+assets/shared/sounds/ANGRY_TEXT_BOX.ogg
+assets/shared/sounds/GF_1.ogg
+assets/shared/sounds/GF_2.ogg
+assets/shared/sounds/GF_3.ogg
+assets/shared/sounds/GF_4.ogg
+assets/shared/sounds/Lights_Shut_off.ogg
+assets/shared/sounds/Lights_Turn_On.ogg
+assets/shared/sounds/Senpai_Dies.ogg
+assets/shared/sounds/badnoise1.ogg
+assets/shared/sounds/badnoise2.ogg
+assets/shared/sounds/badnoise3.ogg
+assets/shared/sounds/clickText.ogg
+assets/shared/sounds/fnf_loss_sfx-pixel.ogg
+assets/shared/sounds/fnf_loss_sfx.ogg
+assets/shared/sounds/intro1-pixel.ogg
+assets/shared/sounds/intro1.ogg
+assets/shared/sounds/intro2-pixel.ogg
+assets/shared/sounds/intro2.ogg
+assets/shared/sounds/intro3-pixel.ogg
+assets/shared/sounds/intro3.ogg
+assets/shared/sounds/introGo-pixel.ogg
+assets/shared/sounds/introGo.ogg
+assets/shared/sounds/missnote1.ogg
+assets/shared/sounds/missnote2.ogg
+assets/shared/sounds/missnote3.ogg
+assets/shared/sounds/pixelText.ogg
+assets/shared/sounds/soundTest.ogg
+assets/shared/sounds/sounds-go-here.txt
+assets/shared/sounds/train_passes.ogg
+assets/sounds/cancelMenu.ogg
+assets/sounds/confirmMenu.ogg
+assets/sounds/scrollMenu.ogg
+assets/tutorial/tutorial_stuff_here.txt
+assets/week1/week1_stuff_here.txt
+assets/week2/images/halloween_bg.png
+assets/week2/images/halloween_bg.xml
+assets/week2/week2_stuff_here.txt
+assets/week3/images/philly/behindTrain.png
+assets/week3/images/philly/city.png
+assets/week3/images/philly/sky.png
+assets/week3/images/philly/street.png
+assets/week3/images/philly/train.png
+assets/week3/images/philly/win.png
+assets/week3/images/philly/win0.png
+assets/week3/images/philly/win1.png
+assets/week3/images/philly/win2.png
+assets/week3/images/philly/win3.png
+assets/week3/images/philly/win4.png
+assets/week3/week3_stuff_here.txt
+assets/week4/week4_stuff_here.txt
+assets/week5/images/christmas/bgEscalator.png
+assets/week5/images/christmas/bgWalls.png
+assets/week5/images/christmas/bottomBop.png
+assets/week5/images/christmas/bottomBop.xml
+assets/week5/images/christmas/christmasTree.png
+assets/week5/images/christmas/christmasWall.png
+assets/week5/images/christmas/evilBG.png
+assets/week5/images/christmas/evilSnow.png
+assets/week5/images/christmas/evilTree.png
+assets/week5/images/christmas/fgSnow.png
+assets/week5/images/christmas/santa.png
+assets/week5/images/christmas/santa.xml
+assets/week5/images/christmas/upperBop.png
+assets/week5/images/christmas/upperBop.xml
+assets/week5/week5_stuff_here.txt
+assets/week6/images/weeb/animatedEvilSchool.png
+assets/week6/images/weeb/animatedEvilSchool.xml
+assets/week6/images/weeb/bfPortrait.png
+assets/week6/images/weeb/bfPortrait.xml
+assets/week6/images/weeb/bgFreaks.png
+assets/week6/images/weeb/bgFreaks.xml
+assets/week6/images/weeb/evilSchoolBG.png
+assets/week6/images/weeb/evilSchoolFG.png
+assets/week6/images/weeb/petals.png
+assets/week6/images/weeb/petals.xml
+assets/week6/images/weeb/pixelUI/arrowEnds-colored.png
+assets/week6/images/weeb/pixelUI/arrowEnds.png
+assets/week6/images/weeb/pixelUI/arrows-pixels-colored.png
+assets/week6/images/weeb/pixelUI/arrows-pixels.png
+assets/week6/images/weeb/pixelUI/bad-pixel.png
+assets/week6/images/weeb/pixelUI/combo-pixel.png
+assets/week6/images/weeb/pixelUI/date-pixel.png
+assets/week6/images/weeb/pixelUI/dialogueBox-evil.png
+assets/week6/images/weeb/pixelUI/dialogueBox-evil.xml
+assets/week6/images/weeb/pixelUI/dialogueBox-pixel.png
+assets/week6/images/weeb/pixelUI/dialogueBox-pixel.xml
+assets/week6/images/weeb/pixelUI/dialogueBox-senpaiMad.png
+assets/week6/images/weeb/pixelUI/dialogueBox-senpaiMad.xml
+assets/week6/images/weeb/pixelUI/good-pixel.png
+assets/week6/images/weeb/pixelUI/hand_textbox.png
+assets/week6/images/weeb/pixelUI/num0-pixel.png
+assets/week6/images/weeb/pixelUI/num1-pixel.png
+assets/week6/images/weeb/pixelUI/num2-pixel.png
+assets/week6/images/weeb/pixelUI/num3-pixel.png
+assets/week6/images/weeb/pixelUI/num4-pixel.png
+assets/week6/images/weeb/pixelUI/num5-pixel.png
+assets/week6/images/weeb/pixelUI/num6-pixel.png
+assets/week6/images/weeb/pixelUI/num7-pixel.png
+assets/week6/images/weeb/pixelUI/num8-pixel.png
+assets/week6/images/weeb/pixelUI/num9-pixel.png
+assets/week6/images/weeb/pixelUI/ready-pixel.png
+assets/week6/images/weeb/pixelUI/set-pixel.png
+assets/week6/images/weeb/pixelUI/shit-pixel.png
+assets/week6/images/weeb/pixelUI/sick-pixel.png
+assets/week6/images/weeb/senpaiCrazy.png
+assets/week6/images/weeb/senpaiCrazy.xml
+assets/week6/images/weeb/senpaiPortrait.png
+assets/week6/images/weeb/senpaiPortrait.xml
+assets/week6/images/weeb/spiritFaceForward.png
+assets/week6/images/weeb/weebSchool.png
+assets/week6/images/weeb/weebSky.png
+assets/week6/images/weeb/weebStreet.png
+assets/week6/images/weeb/weebTrees.png
+assets/week6/images/weeb/weebTrees.txt
+assets/week6/images/weeb/weebTreesBack.png
+assets/week6/week6_stuff_here.txt
+changelog.txt
+do NOT readme.txt
+icon.ico
+libvlc.dll
+libvlccore.dll
+lime.ndll
+manifest/characters.json
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+manifest/tutorial.json
+manifest/week1.json
+manifest/week2.json
+manifest/week3.json
+manifest/week4.json
+manifest/week5.json
+manifest/week6.json
+mods/Friday Night Funkin'/characters/bf-car/Character.hx
+mods/Friday Night Funkin'/characters/bf-car/icon.png
+mods/Friday Night Funkin'/characters/bf-car/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-car/spritesheet.xml
+mods/Friday Night Funkin'/characters/bf-christmas/Character.hx
+mods/Friday Night Funkin'/characters/bf-christmas/icon.png
+mods/Friday Night Funkin'/characters/bf-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-christmas/spritesheet.xml
+mods/Friday Night Funkin'/characters/bf-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-dead/icon.png
+mods/Friday Night Funkin'/characters/bf-pixel-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-pixel-dead/icon.png
+mods/Friday Night Funkin'/characters/bf-pixel-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-pixel-dead/spritesheet.xml
+mods/Friday Night Funkin'/characters/bf-pixel/Character.hx
+mods/Friday Night Funkin'/characters/bf-pixel/bfPixel.png
+mods/Friday Night Funkin'/characters/bf-pixel/bfPixel.xml
+mods/Friday Night Funkin'/characters/bf-pixel/icon.png
+mods/Friday Night Funkin'/characters/bf-pixel/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-pixel/spritesheet.xml
+mods/Friday Night Funkin'/characters/bf/Character-Old.hx
+mods/Friday Night Funkin'/characters/bf/Character.hx
+mods/Friday Night Funkin'/characters/bf/icon.png
+mods/Friday Night Funkin'/characters/bf/spritesheet.png
+mods/Friday Night Funkin'/characters/bf/spritesheet.xml
+mods/Friday Night Funkin'/characters/dad/Character.hx
+mods/Friday Night Funkin'/characters/dad/icon.png
+mods/Friday Night Funkin'/characters/dad/spritesheet.png
+mods/Friday Night Funkin'/characters/dad/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-car/Character.hx
+mods/Friday Night Funkin'/characters/gf-car/icon.png
+mods/Friday Night Funkin'/characters/gf-car/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-car/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-christmas/Character.hx
+mods/Friday Night Funkin'/characters/gf-christmas/icon.png
+mods/Friday Night Funkin'/characters/gf-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-christmas/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-pixel/Character.hx
+mods/Friday Night Funkin'/characters/gf-pixel/icon.png
+mods/Friday Night Funkin'/characters/gf-pixel/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-pixel/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf/Character.hx
+mods/Friday Night Funkin'/characters/gf/icon.png
+mods/Friday Night Funkin'/characters/gf/spritesheet.png
+mods/Friday Night Funkin'/characters/gf/spritesheet.xml
+mods/Friday Night Funkin'/characters/mom-car/Character.hx
+mods/Friday Night Funkin'/characters/mom-car/icon.png
+mods/Friday Night Funkin'/characters/mom-car/spritesheet.png
+mods/Friday Night Funkin'/characters/mom-car/spritesheet.xml
+mods/Friday Night Funkin'/characters/mom/Character.hx
+mods/Friday Night Funkin'/characters/mom/icon.png
+mods/Friday Night Funkin'/characters/mom/spritesheet.png
+mods/Friday Night Funkin'/characters/mom/spritesheet.xml
+mods/Friday Night Funkin'/characters/monster-christmas/Character.hx
+mods/Friday Night Funkin'/characters/monster-christmas/icon.png
+mods/Friday Night Funkin'/characters/monster-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/monster-christmas/spritesheet.xml
+mods/Friday Night Funkin'/characters/monster/Character.hx
+mods/Friday Night Funkin'/characters/monster/icon.png
+mods/Friday Night Funkin'/characters/monster/spritesheet.png
+mods/Friday Night Funkin'/characters/monster/spritesheet.xml
+mods/Friday Night Funkin'/characters/none/Character.hx
+mods/Friday Night Funkin'/characters/parents-christmas/Character.hx
+mods/Friday Night Funkin'/characters/parents-christmas/icon.png
+mods/Friday Night Funkin'/characters/parents-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/parents-christmas/spritesheet.xml
+mods/Friday Night Funkin'/characters/pico/Character.hx
+mods/Friday Night Funkin'/characters/pico/icon.png
+mods/Friday Night Funkin'/characters/pico/spritesheet.png
+mods/Friday Night Funkin'/characters/pico/spritesheet.xml
+mods/Friday Night Funkin'/characters/senpai-angry/Character.hx
+mods/Friday Night Funkin'/characters/senpai-angry/icon.png
+mods/Friday Night Funkin'/characters/senpai/Character.hx
+mods/Friday Night Funkin'/characters/senpai/icon.png
+mods/Friday Night Funkin'/characters/senpai/spritesheet.png
+mods/Friday Night Funkin'/characters/senpai/spritesheet.xml
+mods/Friday Night Funkin'/characters/spirit/Character.hx
+mods/Friday Night Funkin'/characters/spirit/icon.png
+mods/Friday Night Funkin'/characters/spirit/spritesheet.png
+mods/Friday Night Funkin'/characters/spirit/spritesheet.txt
+mods/Friday Night Funkin'/characters/spooky/Character.hx
+mods/Friday Night Funkin'/characters/spooky/icon.png
+mods/Friday Night Funkin'/characters/spooky/spritesheet.png
+mods/Friday Night Funkin'/characters/spooky/spritesheet.xml
+mods/Friday Night Funkin'/characters/unknown/Character.hx
+mods/Friday Night Funkin'/characters/unknown/icon.png
+mods/Friday Night Funkin'/characters/unknown/spritesheet.png
+mods/Friday Night Funkin'/characters/unknown/spritesheet.xml
+mods/Friday Night Funkin'/config.json
+mods/Friday Night Funkin'/credits.json
+mods/Friday Night Funkin'/cutscenes/weeb-dialogue.hx
+mods/Friday Night Funkin'/cutscenes/week5-eggnog.hx
+mods/Friday Night Funkin'/cutscenes/week5-monster.hx
+mods/Friday Night Funkin'/data/blammed/blammed-easy.json
+mods/Friday Night Funkin'/data/blammed/blammed-hard.json
+mods/Friday Night Funkin'/data/blammed/blammed.json
+mods/Friday Night Funkin'/data/bopeebo/bopeebo-easy.json
+mods/Friday Night Funkin'/data/bopeebo/bopeebo-hard.json
+mods/Friday Night Funkin'/data/bopeebo/bopeebo.json
+mods/Friday Night Funkin'/data/bopeebo/dialogue.txt
+mods/Friday Night Funkin'/data/cocoa/cocoa-easy.json
+mods/Friday Night Funkin'/data/cocoa/cocoa-hard.json
+mods/Friday Night Funkin'/data/cocoa/cocoa.json
+mods/Friday Night Funkin'/data/dadbattle/dadbattle-easy.json
+mods/Friday Night Funkin'/data/dadbattle/dadbattle-hard.json
+mods/Friday Night Funkin'/data/dadbattle/dadbattle.json
+mods/Friday Night Funkin'/data/eggnog/eggnog-easy.json
+mods/Friday Night Funkin'/data/eggnog/eggnog-hard.json
+mods/Friday Night Funkin'/data/eggnog/eggnog.json
+mods/Friday Night Funkin'/data/freeplaySonglist.json
+mods/Friday Night Funkin'/data/fresh/fresh-easy.json
+mods/Friday Night Funkin'/data/fresh/fresh-hard.json
+mods/Friday Night Funkin'/data/fresh/fresh.json
+mods/Friday Night Funkin'/data/high/high-easy.json
+mods/Friday Night Funkin'/data/high/high-hard.json
+mods/Friday Night Funkin'/data/high/high.json
+mods/Friday Night Funkin'/data/introText.txt
+mods/Friday Night Funkin'/data/milf/milf-easy.json
+mods/Friday Night Funkin'/data/milf/milf-hard.json
+mods/Friday Night Funkin'/data/milf/milf.json
+mods/Friday Night Funkin'/data/milf/modchart.lua
+mods/Friday Night Funkin'/data/monster/monster-easy.json
+mods/Friday Night Funkin'/data/monster/monster-hard.json
+mods/Friday Night Funkin'/data/monster/monster.json
+mods/Friday Night Funkin'/data/offsettest/offsettest.json
+mods/Friday Night Funkin'/data/philly/philly-easy.json
+mods/Friday Night Funkin'/data/philly/philly-hard.json
+mods/Friday Night Funkin'/data/philly/philly.json
+mods/Friday Night Funkin'/data/pico/pico-easy.json
+mods/Friday Night Funkin'/data/pico/pico-hard.json
+mods/Friday Night Funkin'/data/pico/pico.json
+mods/Friday Night Funkin'/data/ridge/ridge.json
+mods/Friday Night Funkin'/data/roses/roses-easy.json
+mods/Friday Night Funkin'/data/roses/roses-hard.json
+mods/Friday Night Funkin'/data/roses/roses.json
+mods/Friday Night Funkin'/data/roses/rosesDialogue.txt
+mods/Friday Night Funkin'/data/satin-panties/satin-panties-easy.json
+mods/Friday Night Funkin'/data/satin-panties/satin-panties-hard.json
+mods/Friday Night Funkin'/data/satin-panties/satin-panties.json
+mods/Friday Night Funkin'/data/senpai/senpai-easy.json
+mods/Friday Night Funkin'/data/senpai/senpai-hard.json
+mods/Friday Night Funkin'/data/senpai/senpai.json
+mods/Friday Night Funkin'/data/senpai/senpaiDialogue.txt
+mods/Friday Night Funkin'/data/smash/smash.json
+mods/Friday Night Funkin'/data/south/south-easy.json
+mods/Friday Night Funkin'/data/south/south-hard.json
+mods/Friday Night Funkin'/data/south/south.json
+mods/Friday Night Funkin'/data/spookeez/spookeez-easy.json
+mods/Friday Night Funkin'/data/spookeez/spookeez-hard.json
+mods/Friday Night Funkin'/data/spookeez/spookeez.json
+mods/Friday Night Funkin'/data/test/test.json
+mods/Friday Night Funkin'/data/thorns/thorns-easy.json
+mods/Friday Night Funkin'/data/thorns/thorns-hard.json
+mods/Friday Night Funkin'/data/thorns/thorns.json
+mods/Friday Night Funkin'/data/thorns/thornsDialogue.txt
+mods/Friday Night Funkin'/data/titlescreen.hx
+mods/Friday Night Funkin'/data/tutorial/tutorial-easy.json
+mods/Friday Night Funkin'/data/tutorial/tutorial-hard.json
+mods/Friday Night Funkin'/data/tutorial/tutorial.json
+mods/Friday Night Funkin'/data/winter-horrorland/winter-horrorland-easy.json
+mods/Friday Night Funkin'/data/winter-horrorland/winter-horrorland-hard.json
+mods/Friday Night Funkin'/data/winter-horrorland/winter-horrorland.json
+mods/Friday Night Funkin'/images/NOTE_assets.png
+mods/Friday Night Funkin'/images/NOTE_assets.xml
+mods/Friday Night Funkin'/images/NOTE_assets_blammed.png
+mods/Friday Night Funkin'/images/NOTE_assets_blammed.xml
+mods/Friday Night Funkin'/images/NOTE_assets_blammed_colored.png
+mods/Friday Night Funkin'/images/NOTE_assets_blammed_colored.xml
+mods/Friday Night Funkin'/images/NOTE_assets_colored.png
+mods/Friday Night Funkin'/images/NOTE_assets_colored.xml
+mods/Friday Night Funkin'/images/christmas/bgEscalator.png
+mods/Friday Night Funkin'/images/christmas/bgWalls.png
+mods/Friday Night Funkin'/images/christmas/bottomBop.png
+mods/Friday Night Funkin'/images/christmas/bottomBop.xml
+mods/Friday Night Funkin'/images/christmas/christmasTree.png
+mods/Friday Night Funkin'/images/christmas/christmasWall.png
+mods/Friday Night Funkin'/images/christmas/evilBG.png
+mods/Friday Night Funkin'/images/christmas/evilSnow.png
+mods/Friday Night Funkin'/images/christmas/evilTree.png
+mods/Friday Night Funkin'/images/christmas/fgSnow.png
+mods/Friday Night Funkin'/images/christmas/santa.png
+mods/Friday Night Funkin'/images/christmas/santa.xml
+mods/Friday Night Funkin'/images/christmas/upperBop.png
+mods/Friday Night Funkin'/images/christmas/upperBop.xml
+mods/Friday Night Funkin'/images/credits/bassetfilms.png
+mods/Friday Night Funkin'/images/credits/evilsk8r.png
+mods/Friday Night Funkin'/images/credits/kawaii_sprite.png
+mods/Friday Night Funkin'/images/credits/ninjamuffin99.png
+mods/Friday Night Funkin'/images/credits/phantomarcade.png
+mods/Friday Night Funkin'/images/credits/sr_pelo.png
+mods/Friday Night Funkin'/images/credits/tom_fulp.png
+mods/Friday Night Funkin'/images/default_stage/stage_light.png
+mods/Friday Night Funkin'/images/default_stage/stageback.png
+mods/Friday Night Funkin'/images/default_stage/stagecurtains.png
+mods/Friday Night Funkin'/images/default_stage/stagefront.png
+mods/Friday Night Funkin'/images/halloween/halloween_bg.png
+mods/Friday Night Funkin'/images/halloween/halloween_bg.xml
+mods/Friday Night Funkin'/images/limo/bgLimo.png
+mods/Friday Night Funkin'/images/limo/bgLimo.xml
+mods/Friday Night Funkin'/images/limo/dumb.png
+mods/Friday Night Funkin'/images/limo/fastCarLol.png
+mods/Friday Night Funkin'/images/limo/limoDancer.png
+mods/Friday Night Funkin'/images/limo/limoDancer.xml
+mods/Friday Night Funkin'/images/limo/limoDrive.png
+mods/Friday Night Funkin'/images/limo/limoDrive.xml
+mods/Friday Night Funkin'/images/limo/limoOverlay.png
+mods/Friday Night Funkin'/images/limo/limoSunset.png
+mods/Friday Night Funkin'/images/limo/shrekDancer.png
+mods/Friday Night Funkin'/images/limo/shrekDancer.xml
+mods/Friday Night Funkin'/images/philly/behindTrain.png
+mods/Friday Night Funkin'/images/philly/city.png
+mods/Friday Night Funkin'/images/philly/sky.png
+mods/Friday Night Funkin'/images/philly/street.png
+mods/Friday Night Funkin'/images/philly/train.png
+mods/Friday Night Funkin'/images/philly/win.png
+mods/Friday Night Funkin'/images/philly/win0.png
+mods/Friday Night Funkin'/images/philly/win1.png
+mods/Friday Night Funkin'/images/philly/win2.png
+mods/Friday Night Funkin'/images/philly/win3.png
+mods/Friday Night Funkin'/images/philly/win4.png
+mods/Friday Night Funkin'/images/ratings/bad.png
+mods/Friday Night Funkin'/images/ratings/good.png
+mods/Friday Night Funkin'/images/ratings/shit.png
+mods/Friday Night Funkin'/images/ratings/sick.png
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.png
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.xml
+mods/Friday Night Funkin'/images/storymenu/easy.png
+mods/Friday Night Funkin'/images/storymenu/hard.png
+mods/Friday Night Funkin'/images/storymenu/normal.png
+mods/Friday Night Funkin'/images/storymenu/week0.png
+mods/Friday Night Funkin'/images/storymenu/week1.png
+mods/Friday Night Funkin'/images/storymenu/week2.png
+mods/Friday Night Funkin'/images/storymenu/week3.png
+mods/Friday Night Funkin'/images/storymenu/week4.png
+mods/Friday Night Funkin'/images/storymenu/week5.png
+mods/Friday Night Funkin'/images/storymenu/week6.png
+mods/Friday Night Funkin'/images/titlescreen/gfDanceTitle.png
+mods/Friday Night Funkin'/images/titlescreen/gfDanceTitle.xml
+mods/Friday Night Funkin'/images/titlescreen/logoBumpin.png
+mods/Friday Night Funkin'/images/titlescreen/logoBumpin.xml
+mods/Friday Night Funkin'/images/weeb/animatedEvilSchool.png
+mods/Friday Night Funkin'/images/weeb/animatedEvilSchool.xml
+mods/Friday Night Funkin'/images/weeb/bfPortrait.png
+mods/Friday Night Funkin'/images/weeb/bfPortrait.xml
+mods/Friday Night Funkin'/images/weeb/bgFreaks.png
+mods/Friday Night Funkin'/images/weeb/bgFreaks.xml
+mods/Friday Night Funkin'/images/weeb/evilSchoolBG.png
+mods/Friday Night Funkin'/images/weeb/evilSchoolFG.png
+mods/Friday Night Funkin'/images/weeb/petals.png
+mods/Friday Night Funkin'/images/weeb/petals.xml
+mods/Friday Night Funkin'/images/weeb/pixelUI/arrowEnds-colored.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/arrowEnds.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/arrows-pixels-colored.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/arrows-pixels.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/bad-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/combo-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/date-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-evil.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-evil.xml
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-pixel.xml
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-senpaiMad.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-senpaiMad.xml
+mods/Friday Night Funkin'/images/weeb/pixelUI/good-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/hand_textbox.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num0-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num1-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num2-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num3-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num4-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num5-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num6-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num7-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num8-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/num9-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/ready-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/set-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/shit-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/sick-pixel.png
+mods/Friday Night Funkin'/images/weeb/senpaiCrazy.png
+mods/Friday Night Funkin'/images/weeb/senpaiCrazy.xml
+mods/Friday Night Funkin'/images/weeb/senpaiPortrait.png
+mods/Friday Night Funkin'/images/weeb/senpaiPortrait.xml
+mods/Friday Night Funkin'/images/weeb/spiritFaceForward.png
+mods/Friday Night Funkin'/images/weeb/weebSchool.png
+mods/Friday Night Funkin'/images/weeb/weebSky.png
+mods/Friday Night Funkin'/images/weeb/weebStreet.png
+mods/Friday Night Funkin'/images/weeb/weebTrees.png
+mods/Friday Night Funkin'/images/weeb/weebTrees.txt
+mods/Friday Night Funkin'/images/weeb/weebTreesBack.png
+mods/Friday Night Funkin'/modIcon.png
+mods/Friday Night Funkin'/modcharts/blammed.hx
+mods/Friday Night Funkin'/modcharts/bopeebo.hx
+mods/Friday Night Funkin'/modcharts/fresh.hx
+mods/Friday Night Funkin'/modcharts/milf.hx
+mods/Friday Night Funkin'/modcharts/tutorial.hx
+mods/Friday Night Funkin'/modcharts/unknown.hx
+mods/Friday Night Funkin'/modcharts/week6.hx
+mods/Friday Night Funkin'/music/Lunchbox.mp3
+mods/Friday Night Funkin'/music/Lunchbox.ogg
+mods/Friday Night Funkin'/music/LunchboxScary.mp3
+mods/Friday Night Funkin'/music/LunchboxScary.ogg
+mods/Friday Night Funkin'/music/gameOver-pixel.mp3
+mods/Friday Night Funkin'/music/gameOver-pixel.ogg
+mods/Friday Night Funkin'/music/gameOver.mp3
+mods/Friday Night Funkin'/music/gameOver.ogg
+mods/Friday Night Funkin'/notes/Blammed Note.hx
+mods/Friday Night Funkin'/notes/Default Note.hx
+mods/Friday Night Funkin'/notes/Pixel Note.hx
+mods/Friday Night Funkin'/scripts/fnf.hx
+mods/Friday Night Funkin'/shaders/blammed.frag
+mods/Friday Night Funkin'/shaders/mosaic.frag
+mods/Friday Night Funkin'/song_conf.hx
+mods/Friday Night Funkin'/song_conf.json
+mods/Friday Night Funkin'/songs/blammed/Inst.mp3
+mods/Friday Night Funkin'/songs/blammed/Inst.ogg
+mods/Friday Night Funkin'/songs/blammed/Voices.mp3
+mods/Friday Night Funkin'/songs/blammed/Voices.ogg
+mods/Friday Night Funkin'/songs/bopeebo/Inst.mp3
+mods/Friday Night Funkin'/songs/bopeebo/Inst.ogg
+mods/Friday Night Funkin'/songs/bopeebo/Voices.mp3
+mods/Friday Night Funkin'/songs/bopeebo/Voices.ogg
+mods/Friday Night Funkin'/songs/cocoa/Inst.mp3
+mods/Friday Night Funkin'/songs/cocoa/Inst.ogg
+mods/Friday Night Funkin'/songs/cocoa/Voices.mp3
+mods/Friday Night Funkin'/songs/cocoa/Voices.ogg
+mods/Friday Night Funkin'/songs/dadbattle/Inst.mp3
+mods/Friday Night Funkin'/songs/dadbattle/Inst.ogg
+mods/Friday Night Funkin'/songs/dadbattle/Voices.mp3
+mods/Friday Night Funkin'/songs/dadbattle/Voices.ogg
+mods/Friday Night Funkin'/songs/eggnog/Inst.mp3
+mods/Friday Night Funkin'/songs/eggnog/Inst.ogg
+mods/Friday Night Funkin'/songs/eggnog/Voices.mp3
+mods/Friday Night Funkin'/songs/eggnog/Voices.ogg
+mods/Friday Night Funkin'/songs/fresh/Inst.mp3
+mods/Friday Night Funkin'/songs/fresh/Inst.ogg
+mods/Friday Night Funkin'/songs/fresh/Voices.mp3
+mods/Friday Night Funkin'/songs/fresh/Voices.ogg
+mods/Friday Night Funkin'/songs/high/Inst.mp3
+mods/Friday Night Funkin'/songs/high/Inst.ogg
+mods/Friday Night Funkin'/songs/high/Voices.mp3
+mods/Friday Night Funkin'/songs/high/Voices.ogg
+mods/Friday Night Funkin'/songs/milf/Inst.mp3
+mods/Friday Night Funkin'/songs/milf/Inst.ogg
+mods/Friday Night Funkin'/songs/milf/Voices.mp3
+mods/Friday Night Funkin'/songs/milf/Voices.ogg
+mods/Friday Night Funkin'/songs/monster/Inst.mp3
+mods/Friday Night Funkin'/songs/monster/Inst.ogg
+mods/Friday Night Funkin'/songs/monster/Voices.mp3
+mods/Friday Night Funkin'/songs/monster/Voices.ogg
+mods/Friday Night Funkin'/songs/philly/Inst.mp3
+mods/Friday Night Funkin'/songs/philly/Inst.ogg
+mods/Friday Night Funkin'/songs/philly/Voices.mp3
+mods/Friday Night Funkin'/songs/philly/Voices.ogg
+mods/Friday Night Funkin'/songs/pico/Inst.mp3
+mods/Friday Night Funkin'/songs/pico/Inst.ogg
+mods/Friday Night Funkin'/songs/pico/Voices.mp3
+mods/Friday Night Funkin'/songs/pico/Voices.ogg
+mods/Friday Night Funkin'/songs/roses/Inst.mp3
+mods/Friday Night Funkin'/songs/roses/Inst.ogg
+mods/Friday Night Funkin'/songs/roses/Voices.mp3
+mods/Friday Night Funkin'/songs/roses/Voices.ogg
+mods/Friday Night Funkin'/songs/satin-panties/Inst.mp3
+mods/Friday Night Funkin'/songs/satin-panties/Inst.ogg
+mods/Friday Night Funkin'/songs/satin-panties/Voices.mp3
+mods/Friday Night Funkin'/songs/satin-panties/Voices.ogg
+mods/Friday Night Funkin'/songs/senpai/Inst.mp3
+mods/Friday Night Funkin'/songs/senpai/Inst.ogg
+mods/Friday Night Funkin'/songs/senpai/Voices.mp3
+mods/Friday Night Funkin'/songs/senpai/Voices.ogg
+mods/Friday Night Funkin'/songs/south/Inst.mp3
+mods/Friday Night Funkin'/songs/south/Inst.ogg
+mods/Friday Night Funkin'/songs/south/Voices.mp3
+mods/Friday Night Funkin'/songs/south/Voices.ogg
+mods/Friday Night Funkin'/songs/spookeez/Inst.mp3
+mods/Friday Night Funkin'/songs/spookeez/Inst.ogg
+mods/Friday Night Funkin'/songs/spookeez/Voices.mp3
+mods/Friday Night Funkin'/songs/spookeez/Voices.ogg
+mods/Friday Night Funkin'/songs/test/Inst.mp3
+mods/Friday Night Funkin'/songs/test/Inst.ogg
+mods/Friday Night Funkin'/songs/test/Voices.mp3
+mods/Friday Night Funkin'/songs/test/Voices.ogg
+mods/Friday Night Funkin'/songs/thorns/Inst.mp3
+mods/Friday Night Funkin'/songs/thorns/Inst.ogg
+mods/Friday Night Funkin'/songs/thorns/Voices.mp3
+mods/Friday Night Funkin'/songs/thorns/Voices.ogg
+mods/Friday Night Funkin'/songs/tutorial/Inst.mp3
+mods/Friday Night Funkin'/songs/tutorial/Inst.ogg
+mods/Friday Night Funkin'/songs/winter-horrorland/Inst.mp3
+mods/Friday Night Funkin'/songs/winter-horrorland/Inst.ogg
+mods/Friday Night Funkin'/songs/winter-horrorland/Voices.mp3
+mods/Friday Night Funkin'/songs/winter-horrorland/Voices.ogg
+mods/Friday Night Funkin'/sounds/ANGRY.mp3
+mods/Friday Night Funkin'/sounds/ANGRY.ogg
+mods/Friday Night Funkin'/sounds/ANGRY_TEXT_BOX.mp3
+mods/Friday Night Funkin'/sounds/ANGRY_TEXT_BOX.ogg
+mods/Friday Night Funkin'/sounds/GF_1.mp3
+mods/Friday Night Funkin'/sounds/GF_1.ogg
+mods/Friday Night Funkin'/sounds/GF_2.mp3
+mods/Friday Night Funkin'/sounds/GF_2.ogg
+mods/Friday Night Funkin'/sounds/GF_3.mp3
+mods/Friday Night Funkin'/sounds/GF_3.ogg
+mods/Friday Night Funkin'/sounds/GF_4.mp3
+mods/Friday Night Funkin'/sounds/GF_4.ogg
+mods/Friday Night Funkin'/sounds/Lights_Shut_off.mp3
+mods/Friday Night Funkin'/sounds/Lights_Shut_off.ogg
+mods/Friday Night Funkin'/sounds/Lights_Turn_On.mp3
+mods/Friday Night Funkin'/sounds/Lights_Turn_On.ogg
+mods/Friday Night Funkin'/sounds/Senpai_Dies.mp3
+mods/Friday Night Funkin'/sounds/Senpai_Dies.ogg
+mods/Friday Night Funkin'/sounds/badnoise1.mp3
+mods/Friday Night Funkin'/sounds/badnoise1.ogg
+mods/Friday Night Funkin'/sounds/badnoise2.mp3
+mods/Friday Night Funkin'/sounds/badnoise2.ogg
+mods/Friday Night Funkin'/sounds/badnoise3.mp3
+mods/Friday Night Funkin'/sounds/badnoise3.ogg
+mods/Friday Night Funkin'/sounds/carPass0.mp3
+mods/Friday Night Funkin'/sounds/carPass0.ogg
+mods/Friday Night Funkin'/sounds/carPass1.mp3
+mods/Friday Night Funkin'/sounds/carPass1.ogg
+mods/Friday Night Funkin'/sounds/clickText.mp3
+mods/Friday Night Funkin'/sounds/clickText.ogg
+mods/Friday Night Funkin'/sounds/fnf_loss_sfx-pixel.mp3
+mods/Friday Night Funkin'/sounds/fnf_loss_sfx-pixel.ogg
+mods/Friday Night Funkin'/sounds/fnf_loss_sfx.mp3
+mods/Friday Night Funkin'/sounds/fnf_loss_sfx.ogg
+mods/Friday Night Funkin'/sounds/gameOverEnd-pixel.mp3
+mods/Friday Night Funkin'/sounds/gameOverEnd-pixel.ogg
+mods/Friday Night Funkin'/sounds/gameOverEnd.mp3
+mods/Friday Night Funkin'/sounds/gameOverEnd.ogg
+mods/Friday Night Funkin'/sounds/intro1-pixel.mp3
+mods/Friday Night Funkin'/sounds/intro1-pixel.ogg
+mods/Friday Night Funkin'/sounds/intro1.mp3
+mods/Friday Night Funkin'/sounds/intro1.ogg
+mods/Friday Night Funkin'/sounds/intro2-pixel.mp3
+mods/Friday Night Funkin'/sounds/intro2-pixel.ogg
+mods/Friday Night Funkin'/sounds/intro2.mp3
+mods/Friday Night Funkin'/sounds/intro2.ogg
+mods/Friday Night Funkin'/sounds/intro3-pixel.mp3
+mods/Friday Night Funkin'/sounds/intro3-pixel.ogg
+mods/Friday Night Funkin'/sounds/intro3.mp3
+mods/Friday Night Funkin'/sounds/intro3.ogg
+mods/Friday Night Funkin'/sounds/introGo-pixel.mp3
+mods/Friday Night Funkin'/sounds/introGo-pixel.ogg
+mods/Friday Night Funkin'/sounds/introGo.mp3
+mods/Friday Night Funkin'/sounds/introGo.ogg
+mods/Friday Night Funkin'/sounds/missnote1.mp3
+mods/Friday Night Funkin'/sounds/missnote1.ogg
+mods/Friday Night Funkin'/sounds/missnote2.mp3
+mods/Friday Night Funkin'/sounds/missnote2.ogg
+mods/Friday Night Funkin'/sounds/missnote3.mp3
+mods/Friday Night Funkin'/sounds/missnote3.ogg
+mods/Friday Night Funkin'/sounds/pixelText.mp3
+mods/Friday Night Funkin'/sounds/pixelText.ogg
+mods/Friday Night Funkin'/sounds/soundTest.mp3
+mods/Friday Night Funkin'/sounds/soundTest.ogg
+mods/Friday Night Funkin'/sounds/sounds-go-here.txt
+mods/Friday Night Funkin'/sounds/thunder_1.mp3
+mods/Friday Night Funkin'/sounds/thunder_1.ogg
+mods/Friday Night Funkin'/sounds/thunder_2.mp3
+mods/Friday Night Funkin'/sounds/thunder_2.ogg
+mods/Friday Night Funkin'/sounds/train_passes.mp3
+mods/Friday Night Funkin'/sounds/train_passes.ogg
+mods/Friday Night Funkin'/stages/default_stage.hx
+mods/Friday Night Funkin'/stages/halloween.hx
+mods/Friday Night Funkin'/stages/limo.hx
+mods/Friday Night Funkin'/stages/mall-evil.hx
+mods/Friday Night Funkin'/stages/mall.hx
+mods/Friday Night Funkin'/stages/philly.hx
+mods/Friday Night Funkin'/stages/school-evil.hx
+mods/Friday Night Funkin'/stages/school.hx
+mods/Friday Night Funkin'/weeks.json
+mods/How to install mods.txt
+mods/YoshiEngine/MP4-Cutscene.hx
+mods/YoshiEngine/MP4-End-Cutscene.hx
+mods/YoshiEngine/config.json
+mods/YoshiEngine/data/introText.txt
+mods/YoshiEngine/modIcon.png
+mods/YoshiEngine/readme.txt
+mods/YoshiEngine/song_conf.hx
+plugins/access/libaccess_attachment_plugin.dll
+plugins/access/libaccess_bd_plugin.dll
+plugins/access/libaccess_ftp_plugin.dll
+plugins/access/libaccess_http_plugin.dll
+plugins/access/libaccess_imem_plugin.dll
+plugins/access/libaccess_mms_plugin.dll
+plugins/access/libaccess_rar_plugin.dll
+plugins/access/libaccess_realrtsp_plugin.dll
+plugins/access/libaccess_smb_plugin.dll
+plugins/access/libaccess_tcp_plugin.dll
+plugins/access/libaccess_udp_plugin.dll
+plugins/access/libaccess_vdr_plugin.dll
+plugins/access/libcdda_plugin.dll
+plugins/access/libdshow_plugin.dll
+plugins/access/libdtv_plugin.dll
+plugins/access/libdvdnav_plugin.dll
+plugins/access/libdvdread_plugin.dll
+plugins/access/libfilesystem_plugin.dll
+plugins/access/libidummy_plugin.dll
+plugins/access/liblibbluray_plugin.dll
+plugins/access/liblive555_plugin.dll
+plugins/access/librtp_plugin.dll
+plugins/access/libscreen_plugin.dll
+plugins/access/libsdp_plugin.dll
+plugins/access/libshm_plugin.dll
+plugins/access/libstream_filter_rar_plugin.dll
+plugins/access/libtimecode_plugin.dll
+plugins/access/libvcd_plugin.dll
+plugins/access/libzip_plugin.dll
+plugins/access_output/libaccess_output_dummy_plugin.dll
+plugins/access_output/libaccess_output_file_plugin.dll
+plugins/access_output/libaccess_output_http_plugin.dll
+plugins/access_output/libaccess_output_livehttp_plugin.dll
+plugins/access_output/libaccess_output_shout_plugin.dll
+plugins/access_output/libaccess_output_udp_plugin.dll
+plugins/audio_filter/liba52tofloat32_plugin.dll
+plugins/audio_filter/liba52tospdif_plugin.dll
+plugins/audio_filter/libaudio_format_plugin.dll
+plugins/audio_filter/libaudiobargraph_a_plugin.dll
+plugins/audio_filter/libchorus_flanger_plugin.dll
+plugins/audio_filter/libcompressor_plugin.dll
+plugins/audio_filter/libdolby_surround_decoder_plugin.dll
+plugins/audio_filter/libdtstofloat32_plugin.dll
+plugins/audio_filter/libdtstospdif_plugin.dll
+plugins/audio_filter/libequalizer_plugin.dll
+plugins/audio_filter/libgain_plugin.dll
+plugins/audio_filter/libheadphone_channel_mixer_plugin.dll
+plugins/audio_filter/libkaraoke_plugin.dll
+plugins/audio_filter/libmono_plugin.dll
+plugins/audio_filter/libmpgatofixed32_plugin.dll
+plugins/audio_filter/libnormvol_plugin.dll
+plugins/audio_filter/libparam_eq_plugin.dll
+plugins/audio_filter/libremap_plugin.dll
+plugins/audio_filter/libsamplerate_plugin.dll
+plugins/audio_filter/libscaletempo_plugin.dll
+plugins/audio_filter/libsimple_channel_mixer_plugin.dll
+plugins/audio_filter/libspatializer_plugin.dll
+plugins/audio_filter/libspeex_resampler_plugin.dll
+plugins/audio_filter/libstereo_widen_plugin.dll
+plugins/audio_filter/libtrivial_channel_mixer_plugin.dll
+plugins/audio_filter/libugly_resampler_plugin.dll
+plugins/audio_mixer/libfloat_mixer_plugin.dll
+plugins/audio_mixer/libinteger_mixer_plugin.dll
+plugins/audio_output/libadummy_plugin.dll
+plugins/audio_output/libafile_plugin.dll
+plugins/audio_output/libamem_plugin.dll
+plugins/audio_output/libdirectsound_plugin.dll
+plugins/audio_output/libmmdevice_plugin.dll
+plugins/audio_output/libwaveout_plugin.dll
+plugins/codec/liba52_plugin.dll
+plugins/codec/libadpcm_plugin.dll
+plugins/codec/libaes3_plugin.dll
+plugins/codec/libaraw_plugin.dll
+plugins/codec/libavcodec_plugin.dll
+plugins/codec/libcc_plugin.dll
+plugins/codec/libcdg_plugin.dll
+plugins/codec/libcrystalhd_plugin.dll
+plugins/codec/libcvdsub_plugin.dll
+plugins/codec/libddummy_plugin.dll
+plugins/codec/libdmo_plugin.dll
+plugins/codec/libdts_plugin.dll
+plugins/codec/libdvbsub_plugin.dll
+plugins/codec/libdxva2_plugin.dll
+plugins/codec/libedummy_plugin.dll
+plugins/codec/libfaad_plugin.dll
+plugins/codec/libflac_plugin.dll
+plugins/codec/libg711_plugin.dll
+plugins/codec/libkate_plugin.dll
+plugins/codec/liblibass_plugin.dll
+plugins/codec/liblibmpeg2_plugin.dll
+plugins/codec/liblpcm_plugin.dll
+plugins/codec/libmpeg_audio_plugin.dll
+plugins/codec/libopus_plugin.dll
+plugins/codec/libpng_plugin.dll
+plugins/codec/libquicktime_plugin.dll
+plugins/codec/librawvideo_plugin.dll
+plugins/codec/libschroedinger_plugin.dll
+plugins/codec/libscte27_plugin.dll
+plugins/codec/libspeex_plugin.dll
+plugins/codec/libspudec_plugin.dll
+plugins/codec/libstl_plugin.dll
+plugins/codec/libsubsdec_plugin.dll
+plugins/codec/libsubsusf_plugin.dll
+plugins/codec/libsvcdsub_plugin.dll
+plugins/codec/libt140_plugin.dll
+plugins/codec/libtheora_plugin.dll
+plugins/codec/libtwolame_plugin.dll
+plugins/codec/libuleaddvaudio_plugin.dll
+plugins/codec/libvorbis_plugin.dll
+plugins/codec/libx264_plugin.dll
+plugins/codec/libzvbi_plugin.dll
+plugins/control/libdummy_plugin.dll
+plugins/control/libgestures_plugin.dll
+plugins/control/libglobalhotkeys_plugin.dll
+plugins/control/libhotkeys_plugin.dll
+plugins/control/libnetsync_plugin.dll
+plugins/control/libntservice_plugin.dll
+plugins/control/liboldrc_plugin.dll
+plugins/demux/libaiff_plugin.dll
+plugins/demux/libasf_plugin.dll
+plugins/demux/libau_plugin.dll
+plugins/demux/libavi_plugin.dll
+plugins/demux/libdemux_cdg_plugin.dll
+plugins/demux/libdemux_stl_plugin.dll
+plugins/demux/libdemuxdump_plugin.dll
+plugins/demux/libdirac_plugin.dll
+plugins/demux/libes_plugin.dll
+plugins/demux/libflacsys_plugin.dll
+plugins/demux/libgme_plugin.dll
+plugins/demux/libh264_plugin.dll
+plugins/demux/libimage_plugin.dll
+plugins/demux/libmjpeg_plugin.dll
+plugins/demux/libmkv_plugin.dll
+plugins/demux/libmod_plugin.dll
+plugins/demux/libmp4_plugin.dll
+plugins/demux/libmpc_plugin.dll
+plugins/demux/libmpgv_plugin.dll
+plugins/demux/libnsc_plugin.dll
+plugins/demux/libnsv_plugin.dll
+plugins/demux/libnuv_plugin.dll
+plugins/demux/libogg_plugin.dll
+plugins/demux/libplaylist_plugin.dll
+plugins/demux/libps_plugin.dll
+plugins/demux/libpva_plugin.dll
+plugins/demux/librawaud_plugin.dll
+plugins/demux/librawdv_plugin.dll
+plugins/demux/librawvid_plugin.dll
+plugins/demux/libreal_plugin.dll
+plugins/demux/libsid_plugin.dll
+plugins/demux/libsmf_plugin.dll
+plugins/demux/libsubtitle_plugin.dll
+plugins/demux/libts_plugin.dll
+plugins/demux/libtta_plugin.dll
+plugins/demux/libty_plugin.dll
+plugins/demux/libvc1_plugin.dll
+plugins/demux/libvobsub_plugin.dll
+plugins/demux/libvoc_plugin.dll
+plugins/demux/libwav_plugin.dll
+plugins/demux/libxa_plugin.dll
+plugins/gui/libqt4_plugin.dll
+plugins/gui/libskins2_plugin.dll
+plugins/lua/liblua_plugin.dll
+plugins/meta_engine/libfolder_plugin.dll
+plugins/meta_engine/libtaglib_plugin.dll
+plugins/misc/libaudioscrobbler_plugin.dll
+plugins/misc/libexport_plugin.dll
+plugins/misc/libfingerprinter_plugin.dll
+plugins/misc/liblogger_plugin.dll
+plugins/misc/libstats_plugin.dll
+plugins/misc/libvod_rtsp_plugin.dll
+plugins/misc/libxml_plugin.dll
+plugins/mmx/libi420_rgb_mmx_plugin.dll
+plugins/mmx/libi420_yuy2_mmx_plugin.dll
+plugins/mmx/libi422_yuy2_mmx_plugin.dll
+plugins/mux/libmux_asf_plugin.dll
+plugins/mux/libmux_avi_plugin.dll
+plugins/mux/libmux_dummy_plugin.dll
+plugins/mux/libmux_mp4_plugin.dll
+plugins/mux/libmux_mpjpeg_plugin.dll
+plugins/mux/libmux_ogg_plugin.dll
+plugins/mux/libmux_ps_plugin.dll
+plugins/mux/libmux_ts_plugin.dll
+plugins/mux/libmux_wav_plugin.dll
+plugins/packetizer/libpacketizer_copy_plugin.dll
+plugins/packetizer/libpacketizer_dirac_plugin.dll
+plugins/packetizer/libpacketizer_flac_plugin.dll
+plugins/packetizer/libpacketizer_h264_plugin.dll
+plugins/packetizer/libpacketizer_mlp_plugin.dll
+plugins/packetizer/libpacketizer_mpeg4audio_plugin.dll
+plugins/packetizer/libpacketizer_mpeg4video_plugin.dll
+plugins/packetizer/libpacketizer_mpegvideo_plugin.dll
+plugins/packetizer/libpacketizer_vc1_plugin.dll
+plugins/plugins.dat
+plugins/services_discovery/libmediadirs_plugin.dll
+plugins/services_discovery/libpodcast_plugin.dll
+plugins/services_discovery/libsap_plugin.dll
+plugins/services_discovery/libupnp_plugin.dll
+plugins/services_discovery/libwindrive_plugin.dll
+plugins/sse2/libi420_rgb_sse2_plugin.dll
+plugins/sse2/libi420_yuy2_sse2_plugin.dll
+plugins/sse2/libi422_yuy2_sse2_plugin.dll
+plugins/stream_filter/libdash_plugin.dll
+plugins/stream_filter/libhttplive_plugin.dll
+plugins/stream_filter/librecord_plugin.dll
+plugins/stream_filter/libsmooth_plugin.dll
+plugins/stream_out/libstream_out_autodel_plugin.dll
+plugins/stream_out/libstream_out_bridge_plugin.dll
+plugins/stream_out/libstream_out_chromaprint_plugin.dll
+plugins/stream_out/libstream_out_delay_plugin.dll
+plugins/stream_out/libstream_out_description_plugin.dll
+plugins/stream_out/libstream_out_display_plugin.dll
+plugins/stream_out/libstream_out_dummy_plugin.dll
+plugins/stream_out/libstream_out_duplicate_plugin.dll
+plugins/stream_out/libstream_out_es_plugin.dll
+plugins/stream_out/libstream_out_gather_plugin.dll
+plugins/stream_out/libstream_out_langfromtelx_plugin.dll
+plugins/stream_out/libstream_out_mosaic_bridge_plugin.dll
+plugins/stream_out/libstream_out_raop_plugin.dll
+plugins/stream_out/libstream_out_record_plugin.dll
+plugins/stream_out/libstream_out_rtp_plugin.dll
+plugins/stream_out/libstream_out_setid_plugin.dll
+plugins/stream_out/libstream_out_smem_plugin.dll
+plugins/stream_out/libstream_out_standard_plugin.dll
+plugins/stream_out/libstream_out_transcode_plugin.dll
+plugins/text_renderer/libfreetype_plugin.dll
+plugins/text_renderer/libtdummy_plugin.dll
+plugins/video_chroma/libgrey_yuv_plugin.dll
+plugins/video_chroma/libi420_rgb_plugin.dll
+plugins/video_chroma/libi420_yuy2_plugin.dll
+plugins/video_chroma/libi422_i420_plugin.dll
+plugins/video_chroma/libi422_yuy2_plugin.dll
+plugins/video_chroma/librv32_plugin.dll
+plugins/video_chroma/libyuy2_i420_plugin.dll
+plugins/video_chroma/libyuy2_i422_plugin.dll
+plugins/video_filter/libadjust_plugin.dll
+plugins/video_filter/libalphamask_plugin.dll
+plugins/video_filter/libanaglyph_plugin.dll
+plugins/video_filter/libantiflicker_plugin.dll
+plugins/video_filter/libatmo_plugin.dll
+plugins/video_filter/libaudiobargraph_v_plugin.dll
+plugins/video_filter/libball_plugin.dll
+plugins/video_filter/libblend_plugin.dll
+plugins/video_filter/libblendbench_plugin.dll
+plugins/video_filter/libbluescreen_plugin.dll
+plugins/video_filter/libcanvas_plugin.dll
+plugins/video_filter/libchain_plugin.dll
+plugins/video_filter/libclone_plugin.dll
+plugins/video_filter/libcolorthres_plugin.dll
+plugins/video_filter/libcroppadd_plugin.dll
+plugins/video_filter/libdeinterlace_plugin.dll
+plugins/video_filter/liberase_plugin.dll
+plugins/video_filter/libextract_plugin.dll
+plugins/video_filter/libgaussianblur_plugin.dll
+plugins/video_filter/libgradfun_plugin.dll
+plugins/video_filter/libgradient_plugin.dll
+plugins/video_filter/libgrain_plugin.dll
+plugins/video_filter/libhqdn3d_plugin.dll
+plugins/video_filter/libinvert_plugin.dll
+plugins/video_filter/liblogo_plugin.dll
+plugins/video_filter/libmagnify_plugin.dll
+plugins/video_filter/libmarq_plugin.dll
+plugins/video_filter/libmirror_plugin.dll
+plugins/video_filter/libmosaic_plugin.dll
+plugins/video_filter/libmotionblur_plugin.dll
+plugins/video_filter/libmotiondetect_plugin.dll
+plugins/video_filter/libpanoramix_plugin.dll
+plugins/video_filter/libposterize_plugin.dll
+plugins/video_filter/libpostproc_plugin.dll
+plugins/video_filter/libpsychedelic_plugin.dll
+plugins/video_filter/libpuzzle_plugin.dll
+plugins/video_filter/libremoteosd_plugin.dll
+plugins/video_filter/libripple_plugin.dll
+plugins/video_filter/librotate_plugin.dll
+plugins/video_filter/librss_plugin.dll
+plugins/video_filter/libscale_plugin.dll
+plugins/video_filter/libscene_plugin.dll
+plugins/video_filter/libsepia_plugin.dll
+plugins/video_filter/libsharpen_plugin.dll
+plugins/video_filter/libsubsdelay_plugin.dll
+plugins/video_filter/libswscale_plugin.dll
+plugins/video_filter/libtransform_plugin.dll
+plugins/video_filter/libwall_plugin.dll
+plugins/video_filter/libwave_plugin.dll
+plugins/video_filter/libyuvp_plugin.dll
+plugins/video_output/libcaca_plugin.dll
+plugins/video_output/libdirect2d_plugin.dll
+plugins/video_output/libdirect3d_plugin.dll
+plugins/video_output/libdirectdraw_plugin.dll
+plugins/video_output/libdrawable_plugin.dll
+plugins/video_output/libglwin32_plugin.dll
+plugins/video_output/libvdummy_plugin.dll
+plugins/video_output/libvmem_plugin.dll
+plugins/video_output/libwingdi_plugin.dll
+plugins/video_output/libyuv_plugin.dll
+plugins/visualization/libgoom_plugin.dll
+plugins/visualization/libprojectm_plugin.dll
+plugins/visualization/libvisual_plugin.dll
+skins/bf/Copy Boyfriend skins here.txt
+skins/bf/template/Character.hx
+skins/bf/template/icon.png
+skins/bf/template/spritesheet.png
+skins/bf/template/spritesheet.xml
+skins/gf/Copy Girlfriend skins here.txt
+skins/gf/template/Character.hx
+skins/gf/template/icon.png
+skins/gf/template/spritesheet.png
+skins/gf/template/spritesheet.xml
+skins/notes/Noteskins.txt
+skins/notes/Old Colored Notes.png
+skins/notes/Old Colored Notes.xml
