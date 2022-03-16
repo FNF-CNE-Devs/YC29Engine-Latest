@@ -268,7 +268,6 @@ do NOT readme.txt
 icon.ico
 libvlc.dll
 libvlccore.dll
-lime.ndll
 manifest/characters.json
 manifest/default.json
 manifest/mods.json
