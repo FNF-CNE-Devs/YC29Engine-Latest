@@ -1,8 +1,0 @@
-assets/credits.json
-YoshiEngine.exe
-README.md
-assets/images/alphabet.png
-assets/images/alphabet.xml
-assets/images/logoBumpin.xml
-assets/images/logoBumpin.png
-assets/images/hi.png
