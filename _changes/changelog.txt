@@ -1,0 +1,13 @@
+1.7.0 - CUSTOM STATES AND MENUS
+
+- /!\ Added Custom States
+- /!\ Added support for custom menus (just add a file with the state name in your ui folder)
+- Added support for replaceable menu assets
+- Fixed Downscroll's long strums behaving weirdly
+- Pitch support for FlxSounds (including music)
+- Fixed input system issues and note shaking.
+- Fixed FlxBar and FlxCamera
+- Removed akifox-asynchttp
+- Fixed the Play Song feature in Freeplay
+- Fixed Stage Editor import bug
+- Fixed Vocals desync issue
