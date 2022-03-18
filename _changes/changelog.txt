@@ -11,3 +11,4 @@
 - Fixed the Play Song feature in Freeplay
 - Fixed Stage Editor import bug
 - Fixed Vocals desync issue
+- Fixed Chart Editor custom note misplacement

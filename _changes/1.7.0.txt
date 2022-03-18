@@ -1,5 +1,3 @@
-YoshiEngine.exe
-_changes/1.7.0.txt
 assets/credits.json
 assets/images/FNF_main_menu_assets.png
 assets/images/FNF_main_menu_assets.xml
@@ -18,3 +16,6 @@ mods/YoshiEngine/images/menuBGBlue.png
 mods/YoshiEngine/images/menuBGMagenta.png
 mods/YoshiEngine/images/menuBGYoshi.png
 mods/YoshiEngine/images/menuDesat.png
+assets/images/outdatedAssets.png
+assets/images/outdatedAssets.xml
+YoshiEngine.exe
