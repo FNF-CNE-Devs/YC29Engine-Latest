@@ -1,3 +1,11 @@
+1.7.1 - FIRST DAY FIXES
+- Added "Show FPS", "Show Memory" and "Show Memory Peak" options
+- Fixed Chart Editor's Left and Right keys
+- Fixed Chart Editor desync
+- Fixed dancing animation not working on character that weren't GF, or in the "boyfriends" or "dads" array.
+- Fixed no titlescreen when the data folder was missing.
+- Shader errors now pops up in the logs
+
 1.7.0 - CUSTOM STATES AND MENUS
 
 - /!\ Added Custom States
