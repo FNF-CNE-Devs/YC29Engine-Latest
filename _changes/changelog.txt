@@ -1,3 +1,6 @@
+1.7.2 - oops
+- Fixed my dumbass code that broke the json song loading
+
 1.7.1 - FIRST DAY FIXES
 - Added "Show FPS", "Show Memory" and "Show Memory Peak" options
 - Fixed Chart Editor's Left and Right keys
