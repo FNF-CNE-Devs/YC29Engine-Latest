@@ -1,3 +1,6 @@
+1.7.3 - The art of programming, you never know if it's going to work or not
+- Fixed the FPS counter crashing on startup
+
 1.7.2 - oops
 - Fixed my dumbass code that broke the json song loading
 
