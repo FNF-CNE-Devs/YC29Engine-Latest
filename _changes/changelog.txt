@@ -6,6 +6,13 @@ This update contains a total of 296 files to update, so for some people that may
 - /!\ Engine Renamed : The engine is now named "YoshiCrafter Engine" to prevent any confusion with the character Yoshi.
 - /!\ Added a new charter
     - Added ability to edit song scripts and chart scripts in the charter
+    - Added Waveforms
+    - Added Hitsounds
+    - Added new change character screen
+    - Added seamless scrolling
+- Upgraded Character Editor
 - Added shaders on sprites in stage editor and on beat tweens.
 - Removed the hscript cache since it was taking up on memory and didn't do anything positive
+- Added a shrexy secret song
 - And a lot more stuff!
+- Removed Herobrine
