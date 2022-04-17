@@ -284,12 +284,6 @@ mods/YoshiCrafterEngine/images/menuDesat.png
 mods/YoshiCrafterEngine/modIcon.png
 mods/YoshiCrafterEngine/readme.txt
 mods/YoshiCrafterEngine/song_conf.hx
-mods/YoshiEngine/images/menuBG.png
-mods/YoshiEngine/images/menuBGBlue.png
-mods/YoshiEngine/images/menuBGMagenta.png
-mods/YoshiEngine/images/menuBGYoshi.png
-mods/YoshiEngine/images/menuDesat.png
-mods/YoshiEngine/modIcon.png
 skins/bf/template/spritesheet.png
 skins/gf/template/icon.png
 skins/gf/template/spritesheet.png
