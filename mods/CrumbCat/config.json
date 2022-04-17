@@ -1,0 +1,5 @@
+{
+    "name" : "Crumb Cat",
+    "description" : "Congrats ! You found the secret Crafter Engine mod hidden in the source code !",
+    "skinnableBFs" : ["crumbcat"]
+}

@@ -1,28 +1,11 @@
-1.7.3 - The art of programming, you never know if it's going to work or not
-- Fixed the FPS counter crashing on startup
+1.8.0 - New Chart Editor (beta)
+Please note that this update was released a bit earlier since ppl were hyped and waiting for the charter for so long, so it may be incomplete.
 
-1.7.2 - oops
-- Fixed my dumbass code that broke the json song loading
+This update contains a total of 296 files to update, so for some people that may experience slowdowns with the updater, it may be better to update directly from the GitHub page.
 
-1.7.1 - FIRST DAY FIXES
-- Added "Show FPS", "Show Memory" and "Show Memory Peak" options
-- Fixed Chart Editor's Left and Right keys
-- Fixed Chart Editor desync
-- Fixed dancing animation not working on character that weren't GF, or in the "boyfriends" or "dads" array.
-- Fixed no titlescreen when the data folder was missing.
-- Shader errors now pops up in the logs
-
-1.7.0 - CUSTOM STATES AND MENUS
-
-- /!\ Added Custom States
-- /!\ Added support for custom menus (just add a file with the state name in your ui folder)
-- Added support for replaceable menu assets
-- Fixed Downscroll's long strums behaving weirdly
-- Pitch support for FlxSounds (including music)
-- Fixed input system issues and note shaking.
-- Fixed FlxBar and FlxCamera
-- Removed akifox-asynchttp
-- Fixed the Play Song feature in Freeplay
-- Fixed Stage Editor import bug
-- Fixed Vocals desync issue
-- Fixed Chart Editor custom note misplacement
+- /!\ Engine Renamed : The engine is now named "YoshiCrafter Engine" to prevent any confusion with the character Yoshi.
+- /!\ Added a new charter
+    - Added ability to edit song scripts and chart scripts in the charter
+- Added shaders on sprites in stage editor and on beat tweens.
+- Removed the hscript cache since it was taking up on memory and didn't do anything positive
+- And a lot more stuff!
