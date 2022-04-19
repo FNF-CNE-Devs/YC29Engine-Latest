@@ -124,10 +124,6 @@ assets/shared/sounds/hitsound.ogg
 manifest/default.json
 manifest/mods.json
 manifest/shared.json
-mods/CrumbCat/characters/crumbcat/Character.hx
-mods/CrumbCat/characters/crumbcat/icon.png
-mods/CrumbCat/config.json
-mods/CrumbCat/images/crumbcat.png
 mods/Friday Night Funkin'/characters/bf-car/spritesheet.png
 mods/Friday Night Funkin'/characters/bf-pixel-dead/icon.png
 mods/Friday Night Funkin'/characters/bf-pixel-dead/spritesheet.png
