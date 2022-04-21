@@ -1,0 +1,38 @@
+YoshiCrafterEngine.exe
+assets/credits.json
+assets/images/credits/empty.png
+assets/images/loading/bf.png
+assets/images/loading/bg.png
+assets/images/loading/bgpattern.png
+assets/images/loading/loading.png
+assets/images/loading/loading.xml
+assets/images/loading/updating.png
+assets/images/loading/updating.xml
+assets/images/loading/yoshi_loading_screen_2.xml
+assets/shared/images/splashes.json
+assets/shared/images/splashes.png
+assets/shared/images/splashes.xml
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+mods/Friday Night Funkin'/characters/silf/Character.hx
+mods/Friday Night Funkin'/data/monster/monster-easy.json
+mods/Friday Night Funkin'/data/monster/monster-hard.json
+mods/Friday Night Funkin'/data/monster/monster.json
+mods/Friday Night Funkin'/data/tutorial/tutorial-easy.json
+mods/Friday Night Funkin'/data/tutorial/tutorial-hard.json
+mods/Friday Night Funkin'/data/tutorial/tutorial.json
+mods/Friday Night Funkin'/images/monster/mask.png
+mods/Friday Night Funkin'/images/weeb/splash.json
+mods/Friday Night Funkin'/images/weeb/splash.png
+mods/Friday Night Funkin'/images/weeb/splash.xml
+mods/Friday Night Funkin'/modcharts/monster.hx
+mods/Friday Night Funkin'/notes/Pixel Note.hx
+mods/Friday Night Funkin'/shaders/3D Floor.frag
+mods/Friday Night Funkin'/shaders/mosaic.frag
+mods/Friday Night Funkin'/song_conf.json
+mods/Friday Night Funkin'/songs/tutorial/Inst.mp3
+mods/Friday Night Funkin'/songs/tutorial/Inst.ogg
+mods/Friday Night Funkin'/songs/tutorial/Voices.mp3
+mods/Friday Night Funkin'/songs/tutorial/Voices.ogg
+mods/YoshiCrafterEngine/data/introText.txt

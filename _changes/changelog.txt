@@ -1,3 +1,12 @@
+1.8.1 - Note Splashes & Fixes
+- /!\ Added Note Splashes
+- /!\ Added a new Note Offset screen
+- Updated Loading & Update screen (thanks siivkoi!!)
+- Added Change BPM in Charter
+- Added new "Engine Socials" option in credits
+- Tutorial now have a Instrumental and a Voices file.
+- Fixed the shrexy secret song
+
 1.8.0 - New Chart Editor (beta)
 Please note that this update was released a bit earlier since ppl were hyped and waiting for the charter for so long, so it may be incomplete.
 
