@@ -1,27 +1,8 @@
-1.8.1 - Note Splashes & Fixes
-- /!\ Added Note Splashes
-- /!\ Added a new Note Offset screen
-- Updated Loading & Update screen (thanks siivkoi!!)
-- Added Change BPM in Charter
-- Added new "Engine Socials" option in credits
-- Tutorial now have a Instrumental and a Voices file.
-- Fixed the shrexy secret song
+1.9.0 - Week 7 Update
 
-1.8.0 - New Chart Editor (beta)
-Please note that this update was released a bit earlier since ppl were hyped and waiting for the charter for so long, so it may be incomplete.
-
-This update contains a total of 296 files to update, so for some people that may experience slowdowns with the updater, it may be better to update directly from the GitHub page.
-
-- /!\ Engine Renamed : The engine is now named "YoshiCrafter Engine" to prevent any confusion with the character Yoshi.
-- /!\ Added a new charter
-    - Added ability to edit song scripts and chart scripts in the charter
-    - Added Waveforms
-    - Added Hitsounds
-    - Added new change character screen
-    - Added seamless scrolling
-- Upgraded Character Editor
-- Added shaders on sprites in stage editor and on beat tweens.
-- Removed the hscript cache since it was taking up on memory and didn't do anything positive
-- Added a shrexy secret song
-- And a lot more stuff!
-- Removed Herobrine
+- /!\ Added Week 7
+- /!\ Complete redesign of the options menu
+- Added "Play Here" button along with other features
+- New Secret Song
+- Fixed splashes' weird behaviour
+- Various other bug fixes

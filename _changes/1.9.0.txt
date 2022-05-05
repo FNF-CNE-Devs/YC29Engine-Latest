@@ -1,0 +1,205 @@
+YoshiCrafterEngine.exe
+assets/images/credits/abnormalpoof.png
+assets/images/credits/kiyuusama.png
+assets/images/credits/polybius.png
+assets/images/credits/yoshicrafter29.png
+assets/images/uiIcons.png
+assets/shared/images/splashes.png
+assets/shared/images/splashes.xml
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+mods/Friday Night Funkin'/characters/bf-holding-gf-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-holding-gf-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-holding-gf-dead/spritesheet.xml
+mods/Friday Night Funkin'/characters/bf-holding-gf/Character.hx
+mods/Friday Night Funkin'/characters/bf-holding-gf/icon.png
+mods/Friday Night Funkin'/characters/bf-holding-gf/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-holding-gf/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-tankmen/Character.hx
+mods/Friday Night Funkin'/characters/gf-tankmen/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-tankmen/spritesheet.xml
+mods/Friday Night Funkin'/characters/pico-speakers/Character.hx
+mods/Friday Night Funkin'/characters/pico-speakers/Character.json
+mods/Friday Night Funkin'/characters/pico-speakers/icon.png
+mods/Friday Night Funkin'/characters/pico-speakers/spritesheet.png
+mods/Friday Night Funkin'/characters/pico-speakers/spritesheet.xml
+mods/Friday Night Funkin'/characters/tankman/Character-old.hx
+mods/Friday Night Funkin'/characters/tankman/Character.hx
+mods/Friday Night Funkin'/characters/tankman/Character.json
+mods/Friday Night Funkin'/characters/tankman/icon.png
+mods/Friday Night Funkin'/characters/tankman/spritesheet.png
+mods/Friday Night Funkin'/characters/tankman/spritesheet.xml
+mods/Friday Night Funkin'/cutscenes/guns-cutscene.hx
+mods/Friday Night Funkin'/cutscenes/stress-cutscene.hx
+mods/Friday Night Funkin'/cutscenes/ugh-cutscene.hx
+mods/Friday Night Funkin'/data/freeplaySonglist.json
+mods/Friday Night Funkin'/data/guns/guns-easy.json
+mods/Friday Night Funkin'/data/guns/guns-hard.json
+mods/Friday Night Funkin'/data/guns/guns.json
+mods/Friday Night Funkin'/data/stress/picospeaker.json
+mods/Friday Night Funkin'/data/stress/stress-easy.json
+mods/Friday Night Funkin'/data/stress/stress-hard.json
+mods/Friday Night Funkin'/data/stress/stress.json
+mods/Friday Night Funkin'/data/titlescreen.hx
+mods/Friday Night Funkin'/data/ugh/ugh-easy.json
+mods/Friday Night Funkin'/data/ugh/ugh-hard.json
+mods/Friday Night Funkin'/data/ugh/ugh.json
+mods/Friday Night Funkin'/images/credits/bassetfilms.png
+mods/Friday Night Funkin'/images/credits/evilsk8r.png
+mods/Friday Night Funkin'/images/credits/kawaii_sprite.png
+mods/Friday Night Funkin'/images/credits/ninjamuffin99.png
+mods/Friday Night Funkin'/images/credits/phantomarcade.png
+mods/Friday Night Funkin'/images/credits/sr_pelo.png
+mods/Friday Night Funkin'/images/credits/tom_fulp.png
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.png
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.xml
+mods/Friday Night Funkin'/images/storymenu/week7.png
+mods/Friday Night Funkin'/images/tank/cutscene/bf.png
+mods/Friday Night Funkin'/images/tank/cutscene/gf-turn-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/gf-turn-1.xml
+mods/Friday Night Funkin'/images/tank/cutscene/gf-turn-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/gf-turn-2.xml
+mods/Friday Night Funkin'/images/tank/cutscene/guns-talk.png
+mods/Friday Night Funkin'/images/tank/cutscene/guns-talk.xml
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-1.xml
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-2.xml
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-3.png
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-3.xml
+mods/Friday Night Funkin'/images/tank/cutscene/stress-talk-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/stress-talk-1.xml
+mods/Friday Night Funkin'/images/tank/cutscene/stress-talk-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/stress-talk-2.xml
+mods/Friday Night Funkin'/images/tank/cutscene/ugh-talk-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/ugh-talk-1.xml
+mods/Friday Night Funkin'/images/tank/cutscene/ugh-talk-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/ugh-talk-2.xml
+mods/Friday Night Funkin'/images/tank/smokeLeft.png
+mods/Friday Night Funkin'/images/tank/smokeLeft.xml
+mods/Friday Night Funkin'/images/tank/smokeRight.png
+mods/Friday Night Funkin'/images/tank/smokeRight.xml
+mods/Friday Night Funkin'/images/tank/tank0.png
+mods/Friday Night Funkin'/images/tank/tank0.xml
+mods/Friday Night Funkin'/images/tank/tank1.png
+mods/Friday Night Funkin'/images/tank/tank1.xml
+mods/Friday Night Funkin'/images/tank/tank2.png
+mods/Friday Night Funkin'/images/tank/tank2.xml
+mods/Friday Night Funkin'/images/tank/tank3.png
+mods/Friday Night Funkin'/images/tank/tank3.xml
+mods/Friday Night Funkin'/images/tank/tank4.png
+mods/Friday Night Funkin'/images/tank/tank4.xml
+mods/Friday Night Funkin'/images/tank/tank5.png
+mods/Friday Night Funkin'/images/tank/tank5.xml
+mods/Friday Night Funkin'/images/tank/tankBuildings.png
+mods/Friday Night Funkin'/images/tank/tankClouds.png
+mods/Friday Night Funkin'/images/tank/tankGround.png
+mods/Friday Night Funkin'/images/tank/tankMountains.png
+mods/Friday Night Funkin'/images/tank/tankRolling.png
+mods/Friday Night Funkin'/images/tank/tankRolling.xml
+mods/Friday Night Funkin'/images/tank/tankRuins.png
+mods/Friday Night Funkin'/images/tank/tankSky.png
+mods/Friday Night Funkin'/images/tank/tankWatchtower.png
+mods/Friday Night Funkin'/images/tank/tankWatchtower.xml
+mods/Friday Night Funkin'/images/tank/tankmanKilled1.png
+mods/Friday Night Funkin'/images/tank/tankmanKilled1.xml
+mods/Friday Night Funkin'/images/weeb/splash.png
+mods/Friday Night Funkin'/modcharts/stress.hx
+mods/Friday Night Funkin'/music/DISTORTO.mp3
+mods/Friday Night Funkin'/music/DISTORTO.ogg
+mods/Friday Night Funkin'/notes/Alt Anim Note.hx
+mods/Friday Night Funkin'/scripts/week7-gameover.hx
+mods/Friday Night Funkin'/song_conf.json
+mods/Friday Night Funkin'/songs/guns/Inst.mp3
+mods/Friday Night Funkin'/songs/guns/Inst.ogg
+mods/Friday Night Funkin'/songs/guns/Voices.mp3
+mods/Friday Night Funkin'/songs/guns/Voices.ogg
+mods/Friday Night Funkin'/songs/stress/Inst.mp3
+mods/Friday Night Funkin'/songs/stress/Inst.ogg
+mods/Friday Night Funkin'/songs/stress/Voices.mp3
+mods/Friday Night Funkin'/songs/stress/Voices.ogg
+mods/Friday Night Funkin'/songs/ugh/Inst.mp3
+mods/Friday Night Funkin'/songs/ugh/Inst.ogg
+mods/Friday Night Funkin'/songs/ugh/Voices.mp3
+mods/Friday Night Funkin'/songs/ugh/Voices.ogg
+mods/Friday Night Funkin'/sounds/tank/bfBeep.mp3
+mods/Friday Night Funkin'/sounds/tank/bfBeep.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-1.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-1.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-10.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-10.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-11.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-11.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-12.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-12.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-13.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-13.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-14.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-14.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-15.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-15.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-16.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-16.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-17.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-17.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-18.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-18.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-19.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-19.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-2.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-2.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-20.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-20.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-21.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-21.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-22.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-22.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-23.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-23.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-24.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-24.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-25.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-25.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-3.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-3.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-4.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-4.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-5.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-5.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-6.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-6.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-7.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-7.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-8.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-8.ogg
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-9.mp3
+mods/Friday Night Funkin'/sounds/tank/jeffGameover/jeffGameover-9.ogg
+mods/Friday Night Funkin'/sounds/tank/killYou.mp3
+mods/Friday Night Funkin'/sounds/tank/killYou.ogg
+mods/Friday Night Funkin'/sounds/tank/song3censor.mp3
+mods/Friday Night Funkin'/sounds/tank/song3censor.ogg
+mods/Friday Night Funkin'/sounds/tank/stressCutscene.mp3
+mods/Friday Night Funkin'/sounds/tank/stressCutscene.ogg
+mods/Friday Night Funkin'/sounds/tank/tankSong2.mp3
+mods/Friday Night Funkin'/sounds/tank/tankSong2.ogg
+mods/Friday Night Funkin'/sounds/tank/wellWellWell.mp3
+mods/Friday Night Funkin'/sounds/tank/wellWellWell.ogg
+mods/Friday Night Funkin'/stages/tank.hx
+mods/Friday Night Funkin'/videos/stressCutscene.mp4
+mods/Friday Night Funkin'/weeks.json
+mods/YoshiCrafterEngine/characters/yosh/Character.hx
+mods/YoshiCrafterEngine/characters/yosh/Character.json
+mods/YoshiCrafterEngine/characters/yosh/icon.png
+mods/YoshiCrafterEngine/characters/yosh/spritesheet.png
+mods/YoshiCrafterEngine/characters/yosh/spritesheet.xml
+mods/YoshiCrafterEngine/data/freeplaySonglist.json
+mods/YoshiCrafterEngine/data/yoshi/yoshi.json
+mods/YoshiCrafterEngine/images/stages/your-stage/aewesme.png
+mods/YoshiCrafterEngine/notes/Easter Egg Note.hx
+mods/YoshiCrafterEngine/readme.txt
+mods/YoshiCrafterEngine/song_conf.json
+mods/YoshiCrafterEngine/songs/yoshi/Inst.ogg
+mods/YoshiCrafterEngine/stages/your-stage.hx
+mods/YoshiCrafterEngine/stages/your-stage.json
+plugins/plugins.dat
