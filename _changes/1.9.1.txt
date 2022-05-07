@@ -1,0 +1,8 @@
+YoshiCrafterEngine.exe
+assets/credits.json
+assets/shared/images/ui/icon16.png
+assets/shared/images/ui/win10titlebar.png
+manifest/default.json
+manifest/shared.json
+mods/Friday Night Funkin'/images/tank/tankmanKilled1.xml
+plugins/plugins.dat

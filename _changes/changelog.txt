@@ -1,3 +1,13 @@
+1.9.1 - Bug Fixes
+
+- /!\ Fixed FlxInputText's weird inputs (now works with AZERTY, QWERTY and every other keyboards)
+- /!\ Fixed FlxSprite 0x0 sprite draw problem
+- /!\ Added Zoom & Mouse Controls to Character Editor
+- /!\ Updated the Mod Info tab to give a preview of the titlebar
+- /!\ New Logs (Press F6 to open in unlocked mods)
+- Fixed Logs showing behind the pause menu
+- Fixed some issues with new alphabet
+
 1.9.0 - Week 7 Update
 
 - /!\ Added Week 7
