@@ -1,0 +1,111 @@
+YoshiCrafterEngine.exe
+assets/credits.json
+assets/data/testChangelog.txt
+assets/data/updateTips.txt
+assets/images/FNF_main_menu_assets.png
+assets/images/FNF_main_menu_assets.xml
+assets/images/alphabet.json
+assets/images/alphabet.png
+assets/images/alphabet.xml
+assets/images/campaign_menu_UI_assets.png
+assets/images/campaign_menu_UI_assets.xml
+assets/images/checkboxThingie.png
+assets/images/checkboxThingie.xml
+assets/images/credits/captainkirb.png
+assets/images/loading/bgpatternsolid.png
+assets/images/menuBGYoshiCrafter.png
+assets/images/menuBGYoshiCrafter_.png
+assets/images/modcardbg.png
+assets/images/uiIcons.png
+assets/shared/images/NOTE_assets_colored.png
+assets/shared/images/NOTE_assets_colored.xml
+assets/shared/images/mfw.png
+assets/shared/images/speech_bubble_talking.json
+assets/shared/images/timeBar.png
+assets/sounds/checkboxChecked.ogg
+assets/sounds/checkboxUnchecked.ogg
+assets/sounds/medalUnlocked.ogg
+assets/sounds/warningMenu.ogg
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+mods/Friday Night Funkin'/characters/bf-car/Character.hx
+mods/Friday Night Funkin'/characters/bf-christmas/Character.hx
+mods/Friday Night Funkin'/characters/bf-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-dead/icon.png
+mods/Friday Night Funkin'/characters/bf-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-dead/spritesheet.xml
+mods/Friday Night Funkin'/characters/bf-pixel/Character.hx
+mods/Friday Night Funkin'/characters/bf/Character.hx
+mods/Friday Night Funkin'/characters/bf/spritesheet.png
+mods/Friday Night Funkin'/characters/bf/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-car/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-car/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-philly/Character.hx
+mods/Friday Night Funkin'/characters/gf-philly/icon.png
+mods/Friday Night Funkin'/characters/gf-philly/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-philly/spritesheet.xml
+mods/Friday Night Funkin'/characters/gf-pixel/Character.hx
+mods/Friday Night Funkin'/characters/gf/spritesheet.png
+mods/Friday Night Funkin'/characters/gf/spritesheet.xml
+mods/Friday Night Funkin'/characters/pico-speakers/Character.hx
+mods/Friday Night Funkin'/config.json
+mods/Friday Night Funkin'/cutscenes/week5-eggnog.hx
+mods/Friday Night Funkin'/data/eggnog/eggnog-easy.json
+mods/Friday Night Funkin'/data/eggnog/eggnog-hard.json
+mods/Friday Night Funkin'/data/eggnog/eggnog.json
+mods/Friday Night Funkin'/data/mainMenu.json
+mods/Friday Night Funkin'/data/titlescreen.hx
+mods/Friday Night Funkin'/images/NOTE_assets_blammed_colored.png
+mods/Friday Night Funkin'/images/NOTE_assets_colored.png
+mods/Friday Night Funkin'/images/NOTE_assets_colored.xml
+mods/Friday Night Funkin'/images/christmas/snow.png
+mods/Friday Night Funkin'/images/medals.png
+mods/Friday Night Funkin'/images/medals.xml
+mods/Friday Night Funkin'/images/philly/fade.png
+mods/Friday Night Funkin'/images/philly/particles.png
+mods/Friday Night Funkin'/images/storymenu/week6.png
+mods/Friday Night Funkin'/medals.json
+mods/Friday Night Funkin'/modcharts/blammed.hx
+mods/Friday Night Funkin'/modcharts/dadbattle.hx
+mods/Friday Night Funkin'/modcharts/week6.hx
+mods/Friday Night Funkin'/notes/Alt Anim Note.hx
+mods/Friday Night Funkin'/notes/Blammed Note.hx
+mods/Friday Night Funkin'/notes/Default Note.hx
+mods/Friday Night Funkin'/notes/Pixel Note.hx
+mods/Friday Night Funkin'/shaders/blammedhud.frag
+mods/Friday Night Funkin'/shaders/blammedparticles.frag
+mods/Friday Night Funkin'/shaders/lightning.frag
+mods/Friday Night Funkin'/shaders/mosaic.frag
+mods/Friday Night Funkin'/shaders/snow.frag
+mods/Friday Night Funkin'/song_conf.json
+mods/Friday Night Funkin'/songs/dadbattle/Inst.ogg.sfk
+mods/Friday Night Funkin'/stages/default_stage.hx
+mods/Friday Night Funkin'/stages/halloween.hx
+mods/Friday Night Funkin'/stages/limo.hx
+mods/Friday Night Funkin'/stages/mall.hx
+mods/Friday Night Funkin'/stages/philly.hx
+mods/Friday Night Funkin'/stages/school-evil.hx
+mods/Friday Night Funkin'/stages/school.hx
+mods/Friday Night Funkin'/stages/tank.hx
+mods/Friday Night Funkin'/states/MainMenuState.hx
+mods/Friday Night Funkin'/ui/MainMenuState.hx
+mods/YoshiCrafterEngine/MP4-Cutscene.hx
+mods/YoshiCrafterEngine/config.json
+mods/YoshiCrafterEngine/images/dvdMenu.png
+mods/YoshiCrafterEngine/images/dvdMenu.xml
+mods/YoshiCrafterEngine/images/dvdlogo.png
+mods/YoshiCrafterEngine/images/notes/NOTE_assets_damage.png
+mods/YoshiCrafterEngine/images/notes/NOTE_assets_damage.xml
+mods/YoshiCrafterEngine/images/notes/NOTE_assets_instakill.png
+mods/YoshiCrafterEngine/images/notes/NOTE_assets_instakill.xml
+mods/YoshiCrafterEngine/medals.json
+mods/YoshiCrafterEngine/notes/Alt Anim Note.hx
+mods/YoshiCrafterEngine/notes/Easter Egg Note.hx
+mods/YoshiCrafterEngine/notes/GF Note.hx
+mods/YoshiCrafterEngine/notes/Hurt Note.hx
+mods/YoshiCrafterEngine/notes/Instakill Note.hx
+mods/YoshiCrafterEngine/notes/No Anim Note.hx
+mods/YoshiCrafterEngine/notes/Tilt Note.hx
+mods/YoshiCrafterEngine/states/dvd.hx
+mods/YoshiCrafterEngine/ui/MainMenuState.hx
