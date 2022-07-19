@@ -1,3 +1,10 @@
+2.0.1 - First Day Fixes
+- Fixed crash on startup (hopefully)
+- Fixed shaders
+- Fixed AlphabetOptimized outline
+- Fixed Message Boxes not being able to be skipped in fullscreen
+- Fixed MusicBeatState related stuff
+
 2.0.0 - Biggest YoshiCrafter Engine ever
 
 - Every assets can now be customisable

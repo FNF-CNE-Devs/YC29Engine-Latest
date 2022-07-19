@@ -1,0 +1,13 @@
+An error occured !
+YoshiCrafter Engine ver. 2.0.0 
+
+Null Object Reference
+ 
+Called from flixel.graphics.tile.FlxDrawQuadsItem.render (flixel/graphics/tile/FlxDrawQuadsItem.hx line 124)
+Called from flixel.FlxCamera.render (flixel/FlxCamera.hx line 702)
+Called from flixel.FlxGame.draw (flixel/FlxGame.hx line 882)
+Called from flixel.FlxGame.onEnterFrame (flixel/FlxGame.hx line 563)
+Called from openfl.events.EventDispatcher.__dispatchEvent (openfl/events/EventDispatcher.hx line 402)
+Called from openfl.display.DisplayObject.__dispatch (openfl/display/DisplayObject.hx line 1399)
+
+The engine is still in it's early stages, so if you want to report that bug, go ahead and create an Issue on the GitHub page !
