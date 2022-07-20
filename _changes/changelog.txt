@@ -1,3 +1,16 @@
+2.0.2 - Second Day Fixes
+- Fixed bug that prevented people from typing in text boxes
+- Locked base FNF again
+- Fixed Keybinds menu
+- Cleaned up source
+- Made High Scores difficulties non caps sensitive.
+- Fixed a small bug in Story Mode Menu
+- Fixed Mods menu not showing titles on some mods
+- Added "Switch To" in Mods menu.
+- Fixed an input system bug (hopefully)
+- Fixed Copy Section
+- Added mouse controls in Options
+
 2.0.1 - First Day Fixes
 - Fixed crash on startup (hopefully)
 - Fixed shaders

@@ -1,0 +1,2 @@
+YoshiCrafterEngine.exe
+mods/Friday Night Funkin'/config.json
