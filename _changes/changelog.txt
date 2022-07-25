@@ -1,3 +1,8 @@
+2.0.3 - Im taking a break
+- Fixed note placement bug in charter
+- Added Boyfriend variant for unknown character
+- Other bug fixes
+
 2.0.2 - Second Day Fixes
 - Fixed bug that prevented people from typing in text boxes
 - Locked base FNF again

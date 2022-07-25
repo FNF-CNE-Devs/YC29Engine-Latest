@@ -49,3 +49,4 @@
 - Added support for Change BPM in charter
 - .git folder are now ignored in the assets system to prevent freezes
 - Added Change Difficulty and Developer Options pane (to prevent too many options in the pause menu)
+- Added custom cursor (images/cursor.png)
