@@ -1,0 +1,45 @@
+YoshiCrafterEngine.exe
+assets/data/testChangelog.txt
+assets/images/FNF_main_menu_assets.png
+assets/images/FNF_main_menu_assets.xml
+assets/images/alphabet.png
+assets/images/campaign_menu_UI_assets.png
+assets/images/checkboxThingie.png
+assets/images/credits/abnormalpoof.png
+assets/images/credits/captainkirb.png
+assets/images/credits/kiyuusama.png
+assets/images/credits/polybius.png
+assets/images/credits/yoshicrafter29.png
+assets/images/loading/bgpatternsolid.png
+assets/images/menuBGYoshiCrafter.png
+assets/images/menuBGYoshiCrafter_.png
+assets/images/modcardbg.png
+assets/images/uiIcons.png
+assets/shared/images/NOTE_assets_colored.png
+assets/shared/images/mfw.png
+assets/shared/images/splashes.png
+assets/shared/images/timeBar.png
+assets/shared/images/ui/win10titlebar.png
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+mods/Friday Night Funkin'/characters/bf-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-car/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-philly/spritesheet.png
+mods/Friday Night Funkin'/characters/gf/spritesheet.png
+mods/Friday Night Funkin'/characters/unknown/Character.hx
+mods/Friday Night Funkin'/characters/unknown/bf_unknown.png
+mods/Friday Night Funkin'/characters/unknown/bf_unknown.xml
+mods/Friday Night Funkin'/characters/unknown/icon.png
+mods/Friday Night Funkin'/images/NOTE_assets_blammed_colored.png
+mods/Friday Night Funkin'/images/NOTE_assets_colored.png
+mods/Friday Night Funkin'/images/christmas/snow.png
+mods/Friday Night Funkin'/images/medals.png
+mods/Friday Night Funkin'/images/philly/fade.png
+mods/Friday Night Funkin'/images/philly/particles.png
+mods/Friday Night Funkin'/images/storymenu/week6.png
+mods/YoshiCrafterEngine/images/dvdMenu.png
+mods/YoshiCrafterEngine/images/dvdlogo.png
+mods/YoshiCrafterEngine/images/notes/NOTE_assets_damage.png
+mods/YoshiCrafterEngine/images/notes/NOTE_assets_instakill.png
