@@ -1,0 +1,7 @@
+YoshiCrafterEngine.exe
+manifest/default.json
+manifest/mods.json
+mods/Friday Night Funkin'/data/introText.txt
+mods/Friday Night Funkin'/stages/tank.hx
+mods/YoshiCrafterEngine/MP4-End-Cutscene.hx
+mods/YoshiCrafterEngine/states/dvd.hhx

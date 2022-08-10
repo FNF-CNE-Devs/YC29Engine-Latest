@@ -1,80 +1,10 @@
-2.0.3 - Im taking a break
-- Fixed note placement bug in charter
-- Added Boyfriend variant for unknown character
-- Other bug fixes
+2.1.0 - FINAL YOSHI ENGINE UPDATE
 
-2.0.2 - Second Day Fixes
-- Fixed bug that prevented people from typing in text boxes
-- Locked base FNF again
-- Fixed Keybinds menu
-- Cleaned up source
-- Made High Scores difficulties non caps sensitive.
-- Fixed a small bug in Story Mode Menu
-- Fixed Mods menu not showing titles on some mods
-- Added "Switch To" in Mods menu.
-- Fixed an input system bug (hopefully)
-- Fixed Copy Section
-- Added mouse controls in Options
-
-2.0.1 - First Day Fixes
-- Fixed crash on startup (hopefully)
-- Fixed shaders
-- Fixed AlphabetOptimized outline
-- Fixed Message Boxes not being able to be skipped in fullscreen
-- Fixed MusicBeatState related stuff
-
-2.0.0 - Biggest YoshiCrafter Engine ever
-
-- Every assets can now be customisable
-- Added Medals
-- Fixed Memory Leak Issues
-- Fixed a LOT of bugs
-- Better optimisation
-- Fixed Outdated code
-- New Blammed Neons
-- Freeplay UI Update
-- Added support for widescreen and custom resolutions (via scripts)
-- Added Main Menu JSON
-- Fixed FlxTimer and FlxTween callback instability
-- Fixed import, can now be used like in source
-- Fixed Freeze when chart doesnt exist
-- Toolbox UI Upgrade
-- Added documentation
-- Added ability to add scripts without song configuration (drop in data/your song/)
-- Added customisable Discord RPC ("discordRpc" in config.json)
-- Deleted skins are now handled correctly
-- "Shit" rating can now be obtained again
-- Nerfed Complex mode accuracy, its now easier to get high percentage accuracies
-- Added "Copy Last Sections" in charter
-- Optimised some settings (and removed useless ones)
-- Added support for custom intros (see documentation)
-- Added Logs limit
-- Added support for Psych Engine characters
-- New Week Editor
-- BF and GF can now be edited in week editor
-- You can now set a custom on select SFX in the week editor per week.
-- Added command line arguments (YoshiCrafterEngine /help)
-- Fixed FlxColor
-- Enhanced base game weeks (hi gray!!)
-- Added importScript
-- Added ModSprite and ModSubState
-- Alphabet.json + Outlines
-- You can now use PlayState values directly (ex: "boyfriend" instead of "PlayState.boyfriend")
-- Optimized BF and GF's spritesheet
-- Upgraded Week 6 shader
-- Added console input in logs
-- Fixed broken sustains when strums were rotated
-- Added antimash (can be disabled via antimash = false;)
-- Added flashing lights warning
-- Added ModClass
-- Fixed Alphabet word wrap
-- Re-added Instakill and Hurt Notes
-- Updated milliseconds thingy
-- Fixed End Cutscenes being broken and playing on Freeplay songs
-- Added F5 to reload PlayState during end cutscenes (dev mode only)
-- Added support for Psych Engine charts custom notes and event handler (onPsychEvent)
-- Added support for Change BPM in charter
-- .git folder are now ignored in the assets system to prevent freezes
-- Added Change Difficulty and Developer Options pane (to prevent too many options in the pause menu)
-- Added custom cursor (images/cursor.png)
-- Probably more that i forgot...
+- Fixed a lot of issues
+- Upgraded many aspects of the engine
+- Dark mode titlebar
+- Added a method to enable transparency on windows
+- Added an option to pop out the logs from the main window
+- Added colored logs (only in detached console)
+- Fixed ModSprite and ModClass
+- Fixed many hscript issues preventing defined variables from being changed
