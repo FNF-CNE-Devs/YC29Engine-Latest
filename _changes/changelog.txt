@@ -1,3 +1,6 @@
+2.1.1
+- Added nothing
+
 2.1.0 - FINAL YOSHI ENGINE UPDATE
 
 - Fixed a lot of issues
