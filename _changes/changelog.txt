@@ -1,13 +1,9 @@
-2.1.1
-- Added nothing
-
-2.1.0 - FINAL YOSHI ENGINE UPDATE
-
-- Fixed a lot of issues
-- Upgraded many aspects of the engine
-- Dark mode titlebar
-- Added a method to enable transparency on windows
-- Added an option to pop out the logs from the main window
-- Added colored logs (only in detached console)
-- Fixed ModSprite and ModClass
-- Fixed many hscript issues preventing defined variables from being changed
+2.2.0b - SIKE
+- /!\ Added LUA support (beta)
+- /!\ New logs (no more freezes when 5000 lines are logged)
+- Added ability for mods to add a "Download Mod" button on the Discord RPC
+- Updated the Mod Info tab of the Toolbox
+- Converted all characters to JSON format
+- Added legend and animation indices in character editor
+- Added some stuff in charter
+- Added ability to skip update check by pressing Shift+Enter

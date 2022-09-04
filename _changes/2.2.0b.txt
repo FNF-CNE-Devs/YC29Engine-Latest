@@ -1,0 +1,64 @@
+YoshiCrafterEngine.exe
+assets/images/options/layout.png
+assets/images/uiIcons.png
+assets/shared/images/ui/logs-icons.png
+assets/sounds/test.ogg
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+mods/Friday Night Funkin'/characters/bf-car/Character.hx
+mods/Friday Night Funkin'/characters/bf-car/Character.json
+mods/Friday Night Funkin'/characters/bf-christmas/Character.hx
+mods/Friday Night Funkin'/characters/bf-christmas/Character.json
+mods/Friday Night Funkin'/characters/bf-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-dead/Character.json
+mods/Friday Night Funkin'/characters/bf-holding-gf-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-holding-gf-dead/Character.json
+mods/Friday Night Funkin'/characters/bf-holding-gf/Character.hx
+mods/Friday Night Funkin'/characters/bf-holding-gf/Character.json
+mods/Friday Night Funkin'/characters/bf-pixel-dead/Character.hx
+mods/Friday Night Funkin'/characters/bf-pixel-dead/Character.json
+mods/Friday Night Funkin'/characters/bf-pixel/Character.hx
+mods/Friday Night Funkin'/characters/bf-pixel/Character.json
+mods/Friday Night Funkin'/characters/bf/Character.hx
+mods/Friday Night Funkin'/characters/bf/Character.json
+mods/Friday Night Funkin'/characters/dad/Character.hx
+mods/Friday Night Funkin'/characters/dad/Character.json
+mods/Friday Night Funkin'/characters/gf-car/Character.hx
+mods/Friday Night Funkin'/characters/gf-car/Character.json
+mods/Friday Night Funkin'/characters/gf-christmas/Character.hx
+mods/Friday Night Funkin'/characters/gf-christmas/Character.json
+mods/Friday Night Funkin'/characters/gf-philly/Character.hx
+mods/Friday Night Funkin'/characters/gf-philly/Character.json
+mods/Friday Night Funkin'/characters/gf-pixel/Character.hx
+mods/Friday Night Funkin'/characters/gf-pixel/Character.json
+mods/Friday Night Funkin'/characters/gf-tankmen/Character.hx
+mods/Friday Night Funkin'/characters/gf-tankmen/Character.json
+mods/Friday Night Funkin'/characters/gf/Character.hx
+mods/Friday Night Funkin'/characters/gf/Character.json
+mods/Friday Night Funkin'/characters/gf/spritesheet.png
+mods/Friday Night Funkin'/characters/gf/spritesheet.xml
+mods/Friday Night Funkin'/characters/mom-car/Character.hx
+mods/Friday Night Funkin'/characters/mom-car/Character.json
+mods/Friday Night Funkin'/characters/mom/Character.hx
+mods/Friday Night Funkin'/characters/mom/Character.json
+mods/Friday Night Funkin'/characters/monster-christmas/Character.hx
+mods/Friday Night Funkin'/characters/monster-christmas/Character.json
+mods/Friday Night Funkin'/characters/monster/Character.hx
+mods/Friday Night Funkin'/characters/monster/Character.json
+mods/Friday Night Funkin'/characters/parents-christmas/Character.hx
+mods/Friday Night Funkin'/characters/parents-christmas/Character.json
+mods/Friday Night Funkin'/characters/pico/Character.hx
+mods/Friday Night Funkin'/characters/pico/Character.json
+mods/Friday Night Funkin'/characters/senpai-angry/Character.hx
+mods/Friday Night Funkin'/characters/senpai-angry/Character.json
+mods/Friday Night Funkin'/characters/senpai-angry/spritesheet.png
+mods/Friday Night Funkin'/characters/senpai-angry/spritesheet.xml
+mods/Friday Night Funkin'/characters/senpai/Character.hx
+mods/Friday Night Funkin'/characters/senpai/Character.json
+mods/Friday Night Funkin'/characters/silf/Character.hx
+mods/Friday Night Funkin'/characters/silf/Character.json
+mods/Friday Night Funkin'/characters/spirit/Character.hx
+mods/Friday Night Funkin'/characters/spirit/Character.json
+mods/Friday Night Funkin'/characters/spooky/Character.hx
+mods/Friday Night Funkin'/characters/spooky/Character.json
