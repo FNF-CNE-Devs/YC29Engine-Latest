@@ -1,6 +1,7 @@
 2.2.0b - SIKE
 - /!\ Added LUA support (beta)
 - /!\ New logs (no more freezes when 5000 lines are logged)
+- /!\ Input System update: Input system is now more responsive
 - Added ability for mods to add a "Download Mod" button on the Discord RPC
 - Updated the Mod Info tab of the Toolbox
 - Converted all characters to JSON format
