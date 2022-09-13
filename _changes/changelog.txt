@@ -1,10 +1,9 @@
-2.2.0b - SIKE
-- /!\ Added LUA support (beta)
-- /!\ New logs (no more freezes when 5000 lines are logged)
-- /!\ Input System update: Input system is now more responsive
-- Added ability for mods to add a "Download Mod" button on the Discord RPC
-- Updated the Mod Info tab of the Toolbox
-- Converted all characters to JSON format
-- Added legend and animation indices in character editor
-- Added some stuff in charter
-- Added ability to skip update check by pressing Shift+Enter
+2.3.0 - THE POLISHING UPDATE
+
+- /!\ Added .ycemod file extension
+- /!\ Added a new "Optimize Sparrow Atlases" option (BETA) and passed every atlases through it (thats why theres so many files to redownload)
+- /!\ Added ability to create mod releases in the engine itself
+- Fixed Lua related stuff
+- Fixed a bug where certain mods' save files didnt worked
+- Fixed Week 7's Stress MP4 Cutscene crashing
+- Added coconut.png

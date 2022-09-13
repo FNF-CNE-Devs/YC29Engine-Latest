@@ -1,0 +1,117 @@
+YoshiCrafterEngine.exe
+assets/data/loading/devTips.txt
+assets/data/loading/tips.txt
+assets/images/FNF_main_menu_assets.png
+assets/images/alphabet.png
+assets/images/campaign_menu_UI_assets.png
+assets/images/campaign_menu_UI_characters.png
+assets/images/campaign_menu_UI_main_characters.png
+assets/images/checkboxThingie.png
+assets/images/coconut.png
+assets/images/gfDanceTitle.png
+assets/images/loading/loading.png
+assets/images/loading/updating.png
+assets/images/logoBumpin.png
+assets/images/menuBGModInstall.png
+assets/images/options/layout.png
+assets/images/outdatedAssets.png
+assets/images/titleEnter.png
+assets/images/uiIcons.png
+assets/images/ui_buttons.png
+assets/shared/images/NOTE_assets.png
+assets/shared/images/NOTE_assets_charter.png
+assets/shared/images/NOTE_assets_colored.png
+assets/shared/images/backspace.png
+assets/shared/images/events.png
+assets/shared/images/lose.png
+assets/shared/images/pauseAlt/bfLol.png
+assets/shared/images/pauseAlt/pauseUI.png
+assets/shared/images/speech_bubble_talking.png
+assets/shared/images/splashes.png
+assets/shared/images/stageEditorChars.png
+assets/shared/images/ui/logs-icons.png
+manifest/default.json
+manifest/mods.json
+manifest/shared.json
+mods/Friday Night Funkin'/characters/bf-car/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-holding-gf-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-holding-gf/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-pixel-dead/spritesheet.png
+mods/Friday Night Funkin'/characters/bf-pixel/bfPixel.png
+mods/Friday Night Funkin'/characters/bf-pixel/spritesheet.png
+mods/Friday Night Funkin'/characters/bf/spritesheet.png
+mods/Friday Night Funkin'/characters/dad/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-car/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-philly/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-pixel/spritesheet.png
+mods/Friday Night Funkin'/characters/gf-tankmen/spritesheet.png
+mods/Friday Night Funkin'/characters/gf/spritesheet.png
+mods/Friday Night Funkin'/characters/mom-car/spritesheet.png
+mods/Friday Night Funkin'/characters/mom/spritesheet.png
+mods/Friday Night Funkin'/characters/monster-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/monster/spritesheet.png
+mods/Friday Night Funkin'/characters/parents-christmas/spritesheet.png
+mods/Friday Night Funkin'/characters/pico-speakers/Character.hx
+mods/Friday Night Funkin'/characters/pico-speakers/Character.json
+mods/Friday Night Funkin'/characters/pico-speakers/spritesheet.png
+mods/Friday Night Funkin'/characters/pico/spritesheet.png
+mods/Friday Night Funkin'/characters/senpai-angry/spritesheet.png
+mods/Friday Night Funkin'/characters/senpai/spritesheet.png
+mods/Friday Night Funkin'/characters/silf/spritesheet.png
+mods/Friday Night Funkin'/characters/spooky/spritesheet.png
+mods/Friday Night Funkin'/characters/tankman/spritesheet.png
+mods/Friday Night Funkin'/characters/unknown/bf_unknown.png
+mods/Friday Night Funkin'/characters/unknown/icon.png
+mods/Friday Night Funkin'/characters/unknown/spritesheet.png
+mods/Friday Night Funkin'/cutscenes/stress-cutscene.hx
+mods/Friday Night Funkin'/images/NOTE_assets.png
+mods/Friday Night Funkin'/images/NOTE_assets_blammed.png
+mods/Friday Night Funkin'/images/NOTE_assets_blammed_colored.png
+mods/Friday Night Funkin'/images/NOTE_assets_colored.png
+mods/Friday Night Funkin'/images/christmas/bottomBop.png
+mods/Friday Night Funkin'/images/christmas/santa.png
+mods/Friday Night Funkin'/images/christmas/upperBop.png
+mods/Friday Night Funkin'/images/halloween/halloween_bg.png
+mods/Friday Night Funkin'/images/limo/bgLimo.png
+mods/Friday Night Funkin'/images/limo/limoDancer.png
+mods/Friday Night Funkin'/images/limo/limoDrive.png
+mods/Friday Night Funkin'/images/limo/shrekDancer.png
+mods/Friday Night Funkin'/images/medals.png
+mods/Friday Night Funkin'/images/storymenu/campaign_menu_UI_characters.png
+mods/Friday Night Funkin'/images/tank/cutscene/gf-turn-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/gf-turn-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/guns-talk.png
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/pico-arrives-3.png
+mods/Friday Night Funkin'/images/tank/cutscene/stress-talk-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/stress-talk-2.png
+mods/Friday Night Funkin'/images/tank/cutscene/ugh-talk-1.png
+mods/Friday Night Funkin'/images/tank/cutscene/ugh-talk-2.png
+mods/Friday Night Funkin'/images/tank/smokeLeft.png
+mods/Friday Night Funkin'/images/tank/smokeRight.png
+mods/Friday Night Funkin'/images/tank/tank0.png
+mods/Friday Night Funkin'/images/tank/tank1.png
+mods/Friday Night Funkin'/images/tank/tank2.png
+mods/Friday Night Funkin'/images/tank/tank3.png
+mods/Friday Night Funkin'/images/tank/tank4.png
+mods/Friday Night Funkin'/images/tank/tank5.png
+mods/Friday Night Funkin'/images/tank/tankRolling.png
+mods/Friday Night Funkin'/images/tank/tankWatchtower.png
+mods/Friday Night Funkin'/images/tank/tankmanKilled1.png
+mods/Friday Night Funkin'/images/titlescreen/gfDanceTitle.png
+mods/Friday Night Funkin'/images/titlescreen/logoBumpin.png
+mods/Friday Night Funkin'/images/weeb/animatedEvilSchool.png
+mods/Friday Night Funkin'/images/weeb/bfPortrait.png
+mods/Friday Night Funkin'/images/weeb/bgFreaks.png
+mods/Friday Night Funkin'/images/weeb/petals.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-evil.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-pixel.png
+mods/Friday Night Funkin'/images/weeb/pixelUI/dialogueBox-senpaiMad.png
+mods/Friday Night Funkin'/images/weeb/senpaiCrazy.png
+mods/Friday Night Funkin'/images/weeb/senpaiPortrait.png
+mods/Friday Night Funkin'/images/weeb/splash.png
+mods/Friday Night Funkin'/modcharts/week6.hx
