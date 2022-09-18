@@ -1,3 +1,17 @@
+2.3.1 - DEEZ NUTS
+
+- /!\ Added Global Scripts (run in every songs, global_scripts)
+- /!\ Added readmes after creating a new mod (ignored when making .ycemod release)
+- /!\ New Fancy Crash Handler (Windows only, no additional .exe)
+- /!\ Added "Chart Testing" mod (Press ESC to play in Charter, press SHIFT+ESC to play as opponent)
+- /!\ You can now specify stages in charts
+- Zoom & Note Snapping can now be separated in charter
+- Rewrote the asset caching system
+- Fixed Memory Leak in charter
+- Fixed Week 6 dialogue
+- Fixed Pico's camera position
+- Fixed Medals not showing correctly
+
 /!\ MAY OR MAY NOT HAVE REPLACED THE EXE IN THE AUTO UPDATE WITH A 2.1.0 ONE
 IF YOU EXPERIENCED THAT BUG, TRY AGAIN NOW, IT SHOULD WORK.
 
