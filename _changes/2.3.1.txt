@@ -1,0 +1,10 @@
+YoshiCrafterEngine.exe
+_changes/2.3.1.txt
+_changes/changelog.txt
+_changes/list.txt
+assets/images/charter_selector.png
+assets/misc/template_mod.zip
+manifest/default.json
+manifest/mods.json
+manifesthelper.dll
+mods/Friday Night Funkin'/characters/pico/Character.json
