@@ -3,7 +3,7 @@
 - /!\ Added Global Scripts (run in every songs, global_scripts)
 - /!\ Added readmes after creating a new mod (ignored when making .ycemod release)
 - /!\ New Fancy Crash Handler (Windows only, no additional .exe)
-- /!\ Added "Chart Testing" mod (Press ESC to play in Charter, press SHIFT+ESC to play as opponent)
+- /!\ Added "Chart Testing" mode (Press ESC to play in Charter, press SHIFT+ESC to play as opponent)
 - /!\ You can now specify stages in charts
 - Zoom & Note Snapping can now be separated in charter
 - Rewrote the asset caching system
