@@ -1,5 +1,7 @@
-2.3.1 - DEEZ NUTS
+2.3.2 - FIXING DEEZ NUTS
+- /!\ Fixed some menus not being able to load correctly
 
+2.3.1 - DEEZ NUTS
 - /!\ Added Global Scripts (run in every songs, global_scripts)
 - /!\ Added readmes after creating a new mod (ignored when making .ycemod release)
 - /!\ New Fancy Crash Handler (Windows only, no additional .exe)
@@ -12,11 +14,7 @@
 - Fixed Pico's camera position
 - Fixed Medals not showing correctly
 
-/!\ MAY OR MAY NOT HAVE REPLACED THE EXE IN THE AUTO UPDATE WITH A 2.1.0 ONE
-IF YOU EXPERIENCED THAT BUG, TRY AGAIN NOW, IT SHOULD WORK.
-
 2.3.0 - THE POLISHING UPDATE
-
 - /!\ Added .ycemod file extension
 - /!\ Added a new "Optimize Sparrow Atlases" option (BETA) and passed every atlases through it (thats why theres so many files to redownload)
 - /!\ Added ability to create mod releases in the engine itself
