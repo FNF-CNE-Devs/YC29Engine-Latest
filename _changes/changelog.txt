@@ -1,24 +1,10 @@
-2.3.2 - FIXING DEEZ NUTS
-- /!\ Fixed some menus not being able to load correctly
+THIS ENGINE IS OUTDATED!
 
-2.3.1 - DEEZ NUTS
-- /!\ Added Global Scripts (run in every songs, global_scripts)
-- /!\ Added readmes after creating a new mod (ignored when making .ycemod release)
-- /!\ New Fancy Crash Handler (Windows only, no additional .exe)
-- /!\ Added "Chart Testing" mode (Press ESC to play in Charter, press SHIFT+ESC to play as opponent)
-- /!\ You can now specify stages in charts
-- Zoom & Note Snapping can now be separated in charter
-- Rewrote the asset caching system
-- Fixed Memory Leak in charter
-- Fixed Week 6 dialogue
-- Fixed Pico's camera position
-- Fixed Medals not showing correctly
+This engine has a lot of issues, and knowing that it havent been updated in a year, is deprecated.
+It contains issues such as:
+- Frequent memory leaks
+- Bad source management
+- Bad optimisation
+- And many others...
 
-2.3.0 - THE POLISHING UPDATE
-- /!\ Added .ycemod file extension
-- /!\ Added a new "Optimize Sparrow Atlases" option (BETA) and passed every atlases through it (thats why theres so many files to redownload)
-- /!\ Added ability to create mod releases in the engine itself
-- Fixed Lua related stuff
-- Fixed a bug where certain mods' save files didnt worked
-- Fixed Week 7's Stress MP4 Cutscene crashing
-- Added coconut.png
+If you're going to make a new mod on this engine, simply do not. Move to a stabler project such as Codename Engine or Psych Engine.
